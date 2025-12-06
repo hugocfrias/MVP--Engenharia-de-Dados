@@ -40,17 +40,24 @@ O Catálogo dos dados foi realizada dentro da tabela (camada bronze do Databrick
 
 <img width="1151" height="503" alt="image" src="https://github.com/user-attachments/assets/69adde68-6f12-4f47-8202-1db275581ae5" />
 
-Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline. Dessa forma, os dados foram carregados conforme os caminhos abaixo:
+>Linhagem de dados:
 
-<img width="546" height="196" alt="image" src="https://github.com/user-attachments/assets/80c0393e-cb78-41f9-aa29-791e350250d1" />
+Origem: Plataforma Kaggle
 
-<img width="604" height="235" alt="image" src="https://github.com/user-attachments/assets/33fb3675-57dd-4116-a6a0-39e96bc0593b" />
+Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
 
+Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
 
 **4. Carga**
 
 Nesta etapa, será feita a carga dos dados para o Data Warehouse/Data Lake. Na avaliação, nesta etapa, será dado valor pela utilização da pipelines de ETL (Extração, Transformação e Carga) na plataforma de dados utilizada. Iremos discutir pipelines de ETL na Plataforma Databricks durante nossos encontros pelo Zoom e no Discord.
 
 Deve-se documentar os processos de transformação e carga, principalmente os de transformação, e.g. a junção e conciliação de dois conjuntos de dados diferentes.
+
+Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline. Dessa forma, os dados foram carregados conforme os caminhos abaixo:
+
+<img width="546" height="196" alt="image" src="https://github.com/user-attachments/assets/80c0393e-cb78-41f9-aa29-791e350250d1" />
+
+<img width="604" height="235" alt="image" src="https://github.com/user-attachments/assets/33fb3675-57dd-4116-a6a0-39e96bc0593b" />
 
 
