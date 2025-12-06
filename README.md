@@ -40,6 +40,7 @@ O Catálogo dos dados foi realizada dentro da tabela (camada bronze do Databrick
 
 <img width="1151" height="503" alt="image" src="https://github.com/user-attachments/assets/69adde68-6f12-4f47-8202-1db275581ae5" />
 
+___________
 >Linhagem de dados:
 
 Origem: Plataforma Kaggle
