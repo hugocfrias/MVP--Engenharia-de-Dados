@@ -55,6 +55,19 @@ Nesta etapa, será feita a carga dos dados para o Data Warehouse/Data Lake. Na a
 
 Deve-se documentar os processos de transformação e carga, principalmente os de transformação, e.g. a junção e conciliação de dois conjuntos de dados diferentes.
 
+Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines.
+
+<img width="1269" height="387" alt="image" src="https://github.com/user-attachments/assets/abe25c15-3a28-41c2-878c-0a39f0f95bf4" />
+___________
+
+Todo conceito de contrução foi baseado na metolologia **'Medallion Architecture'**:
+
+<img width="828" height="397" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />
+
+Fonte: https://www.databricks.com/glossary/medallion-architecture
+
+Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline.
+
 Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline. Dessa forma, os dados foram carregados conforme os caminhos abaixo:
 
 <img width="546" height="196" alt="image" src="https://github.com/user-attachments/assets/80c0393e-cb78-41f9-aa29-791e350250d1" />
