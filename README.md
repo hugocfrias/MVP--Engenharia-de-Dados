@@ -71,7 +71,7 @@ Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para 
 
 <img width="604" height="235" alt="image" src="https://github.com/user-attachments/assets/33fb3675-57dd-4116-a6a0-39e96bc0593b" />
 
-Código: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Silver_Tranformation.py
+Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/1.Camada_Bronze/Exploration_Data.html
 
 ___________
 >Camada Silver:
@@ -87,6 +87,6 @@ ___________
 
 
 
-https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Exploration_Data.html
+https://hugocfrias.github.io/MVP--Engenharia-de-Dados/1.Camada_Bronze/Exploration_Data.html
 
 
