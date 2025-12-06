@@ -1,4 +1,4 @@
-# MVP- Engenharia-de-Dados 📊
+<img width="1170" height="414" alt="image" src="https://github.com/user-attachments/assets/3875a824-6cfd-4496-bdbc-cb25609bc154" /># MVP- Engenharia-de-Dados 📊
 
 Nome: Hugo Coelho de Frias
 
@@ -27,3 +27,13 @@ O dataset analisado foi escoliho na coleção da plataforma Kaggle:
 Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
 
 Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
+
+
+
+**3. Modelagem**
+
+Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake.
+
+Exemplo:
+
+
