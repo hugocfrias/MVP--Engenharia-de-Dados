@@ -28,7 +28,10 @@ Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasounda
 
 Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
 
-![Uploading image.png…]()
+
+<img width="1170" height="414" alt="image" src="https://github.com/user-attachments/assets/19b1e15c-e2a3-4bb7-bc13-fce0b2a020ad" />
+
+
 
 
 
