@@ -62,6 +62,8 @@ Todo conceito de contrução foi baseado na metolologia **'Medallion Architectur
 
 Fonte: https://www.databricks.com/glossary/medallion-architecture
 
+<img width="407" height="371" alt="image" src="https://github.com/user-attachments/assets/aecddc07-beb5-4793-9a72-f281427e8de6" />
+
 ___________
 >🥉Camada Bronze:
 
