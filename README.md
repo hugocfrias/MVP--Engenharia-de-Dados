@@ -63,9 +63,9 @@ Todo conceito de contrução foi baseado na metolologia **'Medallion Architectur
 
 Fonte: https://www.databricks.com/glossary/medallion-architecture
 
-Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline.
+>Camada Bronze:
 
-Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline. Dessa forma, os dados foram carregados conforme os caminhos abaixo:
+Igestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
 
 <img width="546" height="196" alt="image" src="https://github.com/user-attachments/assets/80c0393e-cb78-41f9-aa29-791e350250d1" />
 
