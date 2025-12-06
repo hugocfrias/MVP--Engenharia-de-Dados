@@ -63,7 +63,7 @@ Todo conceito de contrução foi baseado na metolologia **'Medallion Architectur
 Fonte: https://www.databricks.com/glossary/medallion-architecture
 
 ___________
->Camada Bronze:
+>🥉Camada Bronze:
 
 Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
 
@@ -74,14 +74,14 @@ Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/1.Camada_Bronze/Exploration_Data.html
 
 ___________
->Camada Silver:
+>🥈Camada Silver:
 
 <img width="1318" height="385" alt="image" src="https://github.com/user-attachments/assets/dad3e398-5883-45fe-ada9-91c99f2394af" />
 
 Código: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Silver_Tranformation.py
 
 ___________
->Camada Gold:
+>🥇Camada Gold:
 
 <img width="1313" height="381" alt="image" src="https://github.com/user-attachments/assets/84b442b3-a767-4fbb-b6ca-d14bf58ae5c7" />
 
