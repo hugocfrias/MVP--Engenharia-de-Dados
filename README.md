@@ -86,3 +86,7 @@ ___________
 <img width="1313" height="381" alt="image" src="https://github.com/user-attachments/assets/84b442b3-a767-4fbb-b6ca-d14bf58ae5c7" />
 
 
+
+https://hugocfrias.github.io/seu-repositorio/notebook.html
+
+
