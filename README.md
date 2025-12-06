@@ -21,3 +21,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 4. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
 **2. Coleta**
+
+O dataset analisado foi escoliho na coleção da plataforma Kaggle:
+
+Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
