@@ -58,6 +58,7 @@ Deve-se documentar os processos de transformação e carga, principalmente os de
 Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines.
 
 <img width="1269" height="387" alt="image" src="https://github.com/user-attachments/assets/abe25c15-3a28-41c2-878c-0a39f0f95bf4" />
+
 ___________
 
 Todo conceito de contrução foi baseado na metolologia **'Medallion Architecture'**:
