@@ -62,6 +62,7 @@ Todo conceito de contrução foi baseado na metolologia **'Medallion Architectur
 
 Fonte: https://www.databricks.com/glossary/medallion-architecture
 
+___________
 >Camada Bronze:
 
 Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
