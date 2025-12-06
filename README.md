@@ -76,4 +76,9 @@ ___________
 
 <img width="1318" height="385" alt="image" src="https://github.com/user-attachments/assets/dad3e398-5883-45fe-ada9-91c99f2394af" />
 
+___________
+>Camada Gold:
+
+<img width="1313" height="381" alt="image" src="https://github.com/user-attachments/assets/84b442b3-a767-4fbb-b6ca-d14bf58ae5c7" />
+
 
