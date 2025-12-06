@@ -66,6 +66,12 @@ Arquitetura no Databricks:
 
 <img width="407" height="371" alt="image" src="https://github.com/user-attachments/assets/aecddc07-beb5-4793-9a72-f281427e8de6" />
 
+Criação dos esquemas no Databricks:
+
+<img width="576" height="325" alt="image" src="https://github.com/user-attachments/assets/e6664da5-cd95-47d3-a69b-b4796307aa64" />
+
+Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Catalog%20Creation.sql
+
 ___________
 >🥉Camada Bronze:
 
