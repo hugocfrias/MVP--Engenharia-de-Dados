@@ -71,4 +71,9 @@ Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para 
 
 <img width="604" height="235" alt="image" src="https://github.com/user-attachments/assets/33fb3675-57dd-4116-a6a0-39e96bc0593b" />
 
+___________
+>Camada Silver:
+
+<img width="1318" height="385" alt="image" src="https://github.com/user-attachments/assets/dad3e398-5883-45fe-ada9-91c99f2394af" />
+
 
