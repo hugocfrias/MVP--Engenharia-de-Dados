@@ -43,17 +43,13 @@ O Catálogo dos dados foi realizada dentro da tabela (camada bronze do Databrick
 ___________
 >Linhagem de dados:
 
-Origem: Plataforma Kaggle
-
-Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
-
-Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
+  Origem: Plataforma Kaggle
+  
+  Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
+  
+  Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total,    possui 12 atributos.
 
 **4. Carga**
-
-Nesta etapa, será feita a carga dos dados para o Data Warehouse/Data Lake. Na avaliação, nesta etapa, será dado valor pela utilização da pipelines de ETL (Extração, Transformação e Carga) na plataforma de dados utilizada. Iremos discutir pipelines de ETL na Plataforma Databricks durante nossos encontros pelo Zoom e no Discord.
-
-Deve-se documentar os processos de transformação e carga, principalmente os de transformação, e.g. a junção e conciliação de dois conjuntos de dados diferentes.
 
 Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines.
 
