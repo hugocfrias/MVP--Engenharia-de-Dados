@@ -42,13 +42,11 @@ O Catálogo dos dados foi realizada dentro da tabela (camada bronze do Databrick
 
 ___________
 
-    **Linhagem de Dados:**
-    
-    Origem: Plataforma Kaggle
-  
-    Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
-  
-    Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No           total,    possui 12 atributos.
+-  **Linhagem de Dados:**
+    - Origem: Plataforma Kaggle
+    - Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
+    -  Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No           total,    possui 12 atributos.
+   
 
 **4. Carga**
 
