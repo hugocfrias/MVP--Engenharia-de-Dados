@@ -25,3 +25,19 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 O dataset analisado foi escoliho na coleção da plataforma Kaggle:
 
 Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
+
+O dataset '**Mental Health Lifestyle**' possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos:
+---
+1. Country:	País do respondente (Australia, Brazil, Canada, Germany, India, Japan, USA)
+2. Age: Idade do respondente (Anos)
+3. Gender:	Identidade de gênero do respondente (Female, Male, Other)
+4. Exercise Level: Nível de exercício físico do respondente (High, Low, Moderate)
+5. Diet Type:	Classificação da dieta do respondente (Balanced, Junk Food, Keto, Vegan, Vegetarian)
+6. Sleep Hours:	Horas de sono diária do respondente (Horas)
+7. Stress Level: Nível de stress do respondente (High, Low, Moderate)
+8. Mental Health Condition: Condição de saúde mental do respondente (Anxiety, Bipolar, Depression, None, PTSD)
+9. Work Hours per Week: Horas de trabalho diária do respondente (Horas)
+10. Screen Time per Day: Tempo de tela diária do respondente (Horas)
+11. Social Interaction Score: Pontuação de interação Social do respondente (Escala 1-10)
+12. Happiness Score: Pontuação de Felicidade do respondente (Escala 1-10)
+---
