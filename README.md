@@ -64,7 +64,7 @@ Fonte: https://www.databricks.com/glossary/medallion-architecture
 
 >Camada Bronze:
 
-Igestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
+Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
 
 <img width="546" height="196" alt="image" src="https://github.com/user-attachments/assets/80c0393e-cb78-41f9-aa29-791e350250d1" />
 
