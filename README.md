@@ -44,4 +44,6 @@ Foi utilizada a funcionalidade nativa do Databricks para o início do Pipeline. 
 
 <img width="546" height="196" alt="image" src="https://github.com/user-attachments/assets/80c0393e-cb78-41f9-aa29-791e350250d1" />
 
+<img width="604" height="235" alt="image" src="https://github.com/user-attachments/assets/33fb3675-57dd-4116-a6a0-39e96bc0593b" />
+
 
