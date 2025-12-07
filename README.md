@@ -52,7 +52,7 @@ ___________
 
 Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines.
 
-<img width="1269" height="387" alt="image" src="https://github.com/user-attachments/assets/abe25c15-3a28-41c2-878c-0a39f0f95bf4" />
+<img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
 ___________
 
