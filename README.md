@@ -12,27 +12,25 @@ E-mail: hugofrias2@hotmail.com
 
 O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma coleção abrangente de dados que visa compreender como diversos fatores de estilo de vida afetam o bem-estar mental. Esta base de dados captura aspectos como rotinas de exercícios, hábitos alimentares, padrões de sono, níveis de estresse e interações sociais, além de informações demográficas. A partir do conjunto de dados, se deseja responder as seguintes perguntas:
 
-1. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
+1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
 
-2. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
+2. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-3. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+3. Quais países têm maior nível médio de estresse?
 
-4. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
+4. Quais países têm maior felicidade média?
 
-5. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+5. Há países onde as pessoas dormem mais?
 
-6. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+6. O tempo de tela varia muito entre países?
 
-7. Quais países têm maior nível médio de estresse?
+7. O estilo de vida (dieta, exercício) muda por região?
 
-8. Quais países têm maior felicidade média?
+8. 6. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-9. Há países onde as pessoas dormem mais?
+9. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
 
-10. O tempo de tela varia muito entre países?
-
-11. O estilo de vida (dieta, exercício) muda por região?
+10. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 **2. Coleta**
 
