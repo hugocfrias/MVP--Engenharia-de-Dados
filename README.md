@@ -14,6 +14,8 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
 
+2. Podemos identificar diferenças relevantes em atributos considerando determinada faixa etária?
+
 3. Quais países têm maior nível médio de estresse?
 
 4. Quais países têm maior felicidade média?
