@@ -58,7 +58,7 @@ ___________
 
 Todo conceito de contrução foi baseado na metolologia **'Medallion Architecture'**:
 
-<img width="828" height="397" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />
+<img width="662" height="318" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />
 
 Fonte: https://www.databricks.com/glossary/medallion-architecture
 
