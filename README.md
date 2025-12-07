@@ -18,17 +18,21 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 3. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
-4. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+4. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
 
-5. Quais países têm maior nível médio de estresse?
+5. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
-6. Quais países têm maior felicidade média?
+6. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-7. Há países onde as pessoas dormem mais?
+7. Quais países têm maior nível médio de estresse?
 
-8. O tempo de tela varia muito entre países?
+8. Quais países têm maior felicidade média?
 
-9. O estilo de vida (dieta, exercício) muda por região?
+9. Há países onde as pessoas dormem mais?
+
+10. O tempo de tela varia muito entre países?
+
+11. O estilo de vida (dieta, exercício) muda por região?
 
 **2. Coleta**
 
