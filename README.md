@@ -24,13 +24,11 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 6. O tempo de tela varia muito entre países?
 
-7. O estilo de vida (dieta, exercício) muda por região?
+7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-8. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
 
-9. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
-
-10. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 **2. Coleta**
 
