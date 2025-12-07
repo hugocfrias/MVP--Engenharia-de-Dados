@@ -20,6 +20,16 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 4. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
+5. Quais países têm maior nível médio de estresse?
+
+6. Quais países têm maior felicidade média?
+
+7. Há países onde as pessoas dormem mais?
+
+8. O tempo de tela varia muito entre países?
+
+9. O estilo de vida (dieta, exercício) muda por região?
+
 **2. Coleta**
 
 O dataset analisado foi escoliho na coleção da plataforma Kaggle:
