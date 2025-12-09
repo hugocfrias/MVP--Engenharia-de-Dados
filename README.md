@@ -47,7 +47,7 @@ Os dados foram armazenados em um Volume do Databrticks:
 
 Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake.
 
-O Catálogo dos dados foi realizada dentro da tabela (camada bronze do Databricks):
+O Catálogo dos dados foi realizado dentro da tabela (camada bronze do Databricks):
 
 <img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" />
 
