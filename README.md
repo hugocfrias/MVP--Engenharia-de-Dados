@@ -49,7 +49,8 @@ Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Li
 
 O Catálogo dos dados foi realizada dentro da tabela (camada bronze do Databricks):
 
-<img width="1151" height="503" alt="image" src="https://github.com/user-attachments/assets/69adde68-6f12-4f47-8202-1db275581ae5" />
+<img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" />
+
 
 ___________
 
