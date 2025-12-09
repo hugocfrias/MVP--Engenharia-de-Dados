@@ -111,7 +111,7 @@ Código: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Cama
 ___________
 >🥇Camada Gold:
 
-<img width="1313" height="381" alt="image" src="https://github.com/user-attachments/assets/84b442b3-a767-4fbb-b6ca-d14bf58ae5c7" />
+<img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
 
 
 
