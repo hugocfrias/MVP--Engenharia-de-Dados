@@ -91,7 +91,7 @@ Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para 
 
 <img width="550" height="185" alt="image" src="https://github.com/user-attachments/assets/45882e48-833a-4cc8-b92c-819759628f15" />
 
-<img width="604" height="235" alt="image" src="https://github.com/user-attachments/assets/33fb3675-57dd-4116-a6a0-39e96bc0593b" />
+<img width="585" height="147" alt="image" src="https://github.com/user-attachments/assets/0fb63e41-d90b-4b49-9c36-852be9e70366" />
 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/1.Camada_Bronze/Exploration_Data.html
 
