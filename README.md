@@ -12,23 +12,23 @@ E-mail: hugofrias2@hotmail.com
 
 O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma coleção abrangente de dados que visa compreender como diversos fatores de estilo de vida afetam o bem-estar mental. Esta base de dados captura aspectos como rotinas de exercícios, hábitos alimentares, padrões de sono, níveis de estresse e interações sociais, além de informações demográficas. A partir do conjunto de dados, se deseja responder as seguintes perguntas:
 
-    1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
-    
-    2. Podemos identificar diferenças relevantes em atributos considerando determinada faixa etária?
-    
-    3. Quais países têm maior nível médio de estresse?
-    
-    4. Quais países têm maior felicidade média?
-    
-    5. Há países onde as pessoas dormem mais?
-    
-    6. O tempo de tela varia muito entre países?
-    
-    7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
-    
-    8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
-    
-    9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
+
+2. Podemos identificar diferenças relevantes em atributos considerando determinada faixa etária?
+
+3. Quais países têm maior nível médio de estresse?
+
+4. Quais países têm maior felicidade média?
+
+5. Há países onde as pessoas dormem mais?
+
+6. O tempo de tela varia muito entre países?
+
+7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+
+8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
+
+9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 **2. Coleta**
 
@@ -45,9 +45,9 @@ Os dados foram armazenados em um Volume do Databrticks:
 
 **3. Modelagem**
 
-Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake.
+Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' **é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake**.
 
-O Catálogo dos dados foi realizado dentro da tabela (camada bronze do Databricks):
+O Catálogo dos dados foi realizado dentro da própria tabela importada (camada bronze do Databricks):
 
 <img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" />
 
@@ -62,7 +62,7 @@ ___________
 
 **4. Carga**
 
-Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines.
+Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada **com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines**.
 
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
