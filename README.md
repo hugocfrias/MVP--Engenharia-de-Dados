@@ -167,7 +167,7 @@ Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards anál
 
 ___________
 
-**6. Criação de Jobs Databricks**
+**🔄 6. Criação de Jobs Databricks**
 
 Utilizado a funcionalidade nativa da ferramenta, foi criado um **Job** com o objetivo de agendar e orquestrar tarefas:<br>
 
