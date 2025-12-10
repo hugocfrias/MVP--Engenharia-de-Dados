@@ -114,8 +114,6 @@ ___________
 
 <img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
 
-
-
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
@@ -125,4 +123,13 @@ ___________
 **4. Análises e Solução do Problema**
 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Data_Analisys.html
-              
+
+**5. Criação de Jobs**
+
+<img width="1323" height="352" alt="image" src="https://github.com/user-attachments/assets/0fe6c9df-7683-4a9e-859c-53983febab60" />
+
+<img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
+
+<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
+
+<img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
