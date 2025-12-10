@@ -105,9 +105,7 @@ Foi criado um notebook com uma análise primária para a detecção de possívei
 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/2.Camada_Silver/Exploration_Data.html
 
-Após a análise dos dados importados pela camada bronze, foi realizada uma análise do dataset. Dessa forma, foi identificada a necessidade de remoção do atributo ''
-
-No dataframe 'df', podemos ver abaixo que há 595 instâncias com valores nulos no atributo 'Mental Health Condition'. Analisando o dataset original, as 595 linhas nulas estão com o status de 'NaN'. Por ser tratar de um estado de desordem mental (Mental Health Condition), tive a dúvida se realmente são informações faltantes ou simplesmente instâncias nas quais o respondente não possuía algum tipo de desordem mental.
+Foi identificada a necessidade de remoção do atributo **'Mental Health Condition'**. Analisando o dataset original, foram encontrados 595 linhas nulas (status de 'None'). Por ser tratar de um estado de desordem mental (Mental Health Condition), tive a dúvida se realmente são informações faltantes ou simplesmente instâncias nas quais o respondente não possuía algum tipo de desordem mental. Persistente essa indefinição, optei pela remoção do atributo.
 
 <img width="1320" height="435" alt="image" src="https://github.com/user-attachments/assets/321624c6-8b82-4efa-89b5-4201be147a02" />
 
