@@ -128,7 +128,7 @@ Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/ma
 
 >🥇Camada Gold:
 
-Esta etapa contém dados trabalhados e agregados que reponderam as principais perguntas levantadas no início do projeto.
+Esta etapa contém dados trabalhados e agregados que repondem as principais perguntas levantadas no início do projeto.
 
 **Pipeline (Camada Gold)**
 <img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
