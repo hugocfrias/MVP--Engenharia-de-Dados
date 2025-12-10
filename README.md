@@ -30,6 +30,8 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
+___________
+
 **2. Coleta**
 
 O dataset analisado foi escoliho na coleção da plataforma Kaggle:
@@ -42,6 +44,7 @@ Os dados foram armazenados em um Volume do Databrticks:
 
 <img width="1162" height="423" alt="image" src="https://github.com/user-attachments/assets/037e5b4b-5ab7-408c-b116-dd3d19680c55" />
 
+___________
 
 **3. Modelagem**
 
@@ -66,7 +69,6 @@ Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada **com a 
 
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
-___________
 
 Todo conceito de contrução foi baseado na metolologia **'Medallion Architecture'**:
 
@@ -84,7 +86,7 @@ Criação dos esquemas no Databricks:
 
 Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Catalog%20Creation.sql
 
-___________
+
 >🥉Camada Bronze:
 
 Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
@@ -96,7 +98,7 @@ Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para 
 Segue no link abaixo a documentação (.pdf) do processo da camada bronze:
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Camada_Bronze_Processo.pdf
-___________
+
 >🥈Camada Silver:
 
 A limpeza consiste na verificação da consistência das informações, correção de possíveis erros de preenchimento ou eliminação de valores desconhecidos, redundantes ou não pertencentes ao domínio.
@@ -116,7 +118,7 @@ Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/
 
 Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Output_Camada_Silver.pdf
 
-___________
+
 >🥇Camada Gold:
 
 Esta etapa contém dados trabalhados e agregados que reponderam as principais perguntas levantadas no início do projeto.
