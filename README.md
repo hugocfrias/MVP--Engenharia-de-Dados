@@ -147,7 +147,7 @@ Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/ma
 
 ***EXPLICAR A ETAPA***
 
-Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Data_Analisys.html
+Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html
 ___________
 
 **5. Dashboards Databricks**
