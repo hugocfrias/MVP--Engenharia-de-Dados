@@ -38,7 +38,7 @@ ___________
 
 O dataset analisado foi escoliho na coleção da plataforma Kaggle:
 
-<h6>Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)<h6>
+Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
 
 Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
 
@@ -98,7 +98,7 @@ Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para 
 
 Segue no link abaixo a documentação (.pdf) do processo da camada bronze:
 
-<h6>https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Camada_Bronze_Processo.pdf<h6>
+https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Camada_Bronze_Processo.pdf
 
 <br>
 
