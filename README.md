@@ -48,7 +48,7 @@ Os dados foram armazenados em um Volume do Databrticks:
 
 ___________
 
-**3. Modelagem**
+**❄ 3. Modelagem**
 
 Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' ***é uma tabela única na qual não se torna necessária a construção de esquemas mais refinados, como Esquema Estrela ou Snowflake***.
 
