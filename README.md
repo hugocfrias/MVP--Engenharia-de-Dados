@@ -159,7 +159,7 @@ Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards anál
 
 
 
-   **Análise 1:** Os diferentes níveis de stress (Stress_Level) têm média de idade similares<br>
+<br> **Análise 1:** Os diferentes níveis de stress (Stress_Level) têm média de idade similares<br>
 **Análise 2:** O atributo de horas dormidas (Sleep_Hours) tem uma distrubuição normal<br>
 **Análise 3:** A mediana dos das idades (Age) são bem próximas quando analisado o atributo do tipo de dieta (Diet_Type)<br>
 **Análise 4:** Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares<br>
