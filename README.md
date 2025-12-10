@@ -34,7 +34,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 ___________
 
-**2. Coleta**
+**🔢 2. Coleta**
 
 O dataset analisado foi escoliho na coleção da plataforma Kaggle:
 
