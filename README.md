@@ -120,6 +120,8 @@ https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/G
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
+___________
+
+**4. Análises e Solução do Problema**
 
 
-**4. Carga**
