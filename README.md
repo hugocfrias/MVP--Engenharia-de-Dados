@@ -40,8 +40,6 @@ O dataset analisado foi escoliho na coleção da plataforma Kaggle:
 
 Dataset: https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024
 
-<small>Este texto ficará menor no README.</small>
-
 Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
 
 Os dados foram armazenados em um Volume do Databrticks:
