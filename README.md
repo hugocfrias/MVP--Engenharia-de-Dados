@@ -169,6 +169,10 @@ ___________
 
 **6. Criação de Jobs Databricks**
 
+Utilizado a funcionalidade nativa da ferramenta, foi criado um **Job** com o objetivo de agendar e orquestrar tarefas:<br>
+
+Criação do Job:<br>
+
 <img width="1323" height="352" alt="image" src="https://github.com/user-attachments/assets/0fe6c9df-7683-4a9e-859c-53983febab60" />
 
 <img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
