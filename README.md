@@ -40,7 +40,7 @@ Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de man
 
 Os dados foram armazenados em um Volume do Databrticks:
 
-<img width="1162" height="423" alt="image" src="https://github.com/user-attachments/assets/037e5b4b-5ab7-408c-b116-dd3d19680c55" />
+<img width="813" height="296" alt="image" src="https://github.com/user-attachments/assets/037e5b4b-5ab7-408c-b116-dd3d19680c55" />
 
 
 **3. Modelagem**
