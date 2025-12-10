@@ -185,6 +185,8 @@ Pode-se verificar que a a seguinte sequência de execução:<br>
 **2.** Execução do Pipeline (Restante da Camada Silver e inícioda Camada Gold)<br>
 **3.** Execução do Notebook Análise de Dados da Camada Gold (Data_Analisys)<br>
 
+Execução do Job:<br>
+
 <img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
 
 
