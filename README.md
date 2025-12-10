@@ -126,18 +126,26 @@ Esta etapa contém dados trabalhados e agregados que reponderam as principais pe
 
 Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). Dessa forma, não é possível o export do código com os outputs.
 
+***IMPORTANTE: DESCREVER O OBJETIVO DE CADA CÓDIGO!!!!!!!!!!!!!!***
+
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
 Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Output_Camada_Gold.pdf
-___________
 
-**4. Análises e Solução do Problema**
+**Análises e Solução do Problema**
+
+***EXPLICAR A ETAPA***
 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Data_Analisys.html
+___________
 
-**5. Criação de Jobs**
+**5. Dashboards**
+
+<img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" />
+
+**6. Criação de Jobs**
 
 <img width="1323" height="352" alt="image" src="https://github.com/user-attachments/assets/0fe6c9df-7683-4a9e-859c-53983febab60" />
 
@@ -145,7 +153,7 @@ Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Data_Analisy
 
 <img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
 
-**5. Dashboards**
+**7. Respostas das Perguntas Iniciais**
 
 <img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" />
 
