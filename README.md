@@ -150,7 +150,7 @@ Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/ma
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html
 ___________
 
-**5. Dashboards Databricks**
+**📈 5. Dashboards Databricks**
 
 Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards análises graficas dos dados:
 <br>
