@@ -165,7 +165,7 @@ Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards anál
 **Análise 4:** Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares<br>
 **Análise 5:** Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
 
-    Este texto ficará indentado.
+1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
 
 ___________
 
