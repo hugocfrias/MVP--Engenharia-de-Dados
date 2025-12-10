@@ -50,7 +50,7 @@ ___________
 
 **3. Modelagem**
 
-Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' **é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake**.
+Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' ***é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake***.
 
 O Catálogo dos dados foi realizado dentro da própria tabela importada (camada bronze do Databricks):
 
@@ -65,7 +65,7 @@ O Catálogo dos dados foi realizado dentro da própria tabela importada (camada 
 
 **4. Carga**
 
-Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada **com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines**.
+Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada ***com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines***.
 
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
