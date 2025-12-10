@@ -124,9 +124,5 @@ ___________
 
 **4. Análises e Solução do Problema**
 
-Acessar Link: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Data_Analisys.html
-
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Data_Analisys.html
               
-Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/2.Camada_Silver/Exploration_Data.html
-
