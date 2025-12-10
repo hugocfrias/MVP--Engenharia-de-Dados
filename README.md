@@ -74,15 +74,18 @@ Todo conceito de contrução foi baseado na metolologia **'Medallion Architectur
 
 <img width="662" height="318" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />
 
+<br>
 Fonte: https://www.databricks.com/glossary/medallion-architecture
 
 Arquitetura no Databricks:
 
 <img width="449" height="352" alt="image" src="https://github.com/user-attachments/assets/56502d4e-b22d-4266-ac94-e02780dba95f" />
 
+<br>
 Criação dos esquemas no Databricks:
 
 <img width="576" height="325" alt="image" src="https://github.com/user-attachments/assets/e6664da5-cd95-47d3-a69b-b4796307aa64" />
+<br>
 
 Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Catalog%20Creation.sql
 
