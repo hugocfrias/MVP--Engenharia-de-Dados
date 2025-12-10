@@ -144,8 +144,9 @@ ___________
 **5. Dashboards**
 
 <img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" />
-___________
 
+Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/Data_Analisys.html
+___________
 
 **6. Criação de Jobs**
 
