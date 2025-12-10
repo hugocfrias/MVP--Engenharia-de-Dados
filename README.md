@@ -118,7 +118,7 @@ Foi identificada a necessidade de remoção do atributo **'Mental Health Conditi
 **Pipeline (Camada Silver)**
 <img width="1320" height="435" alt="image" src="https://github.com/user-attachments/assets/321624c6-8b82-4efa-89b5-4201be147a02" />
 
-Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). Dessa forma, não é possível o export do código com os outputs.
+Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). **Dessa forma, NÃO é possível o export do código com os outputs.**
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Silver_Tranformation.py
 
@@ -133,7 +133,7 @@ Esta etapa contém dados trabalhados e agregados que reponderam as principais pe
 **Pipeline (Camada Gold)**
 <img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
 
-Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). Dessa forma, não é possível o export do código com os outputs.
+Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). **Dessa forma, NÃO é possível o export do código com os outputs.**
 
 ***IMPORTANTE: DESCREVER O OBJETIVO DE CADA CÓDIGO!!!!!!!!!!!!!!***
 
