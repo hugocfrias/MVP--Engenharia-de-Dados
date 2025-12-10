@@ -50,7 +50,7 @@ ___________
 
 **3. Modelagem**
 
-Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' ***é uma tabela única na qual não se torna necessária a contrução de esquemas mais refinados, como Esquema Estrela ou Snowflake***.
+Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' ***é uma tabela única na qual não se torna necessária a construção de esquemas mais refinados, como Esquema Estrela ou Snowflake***.
 
 O Catálogo dos dados foi realizado dentro da própria tabela importada (camada bronze do Databricks):
 
