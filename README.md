@@ -173,9 +173,17 @@ Utilizado a funcionalidade nativa da ferramenta, foi criado um **Job** com o obj
 
 Criação do Job:<br>
 
-<img width="1323" height="352" alt="image" src="https://github.com/user-attachments/assets/0fe6c9df-7683-4a9e-859c-53983febab60" />
+<img width="1323" height="352" alt="image" src="https://github.com/user-attachments/assets/0fe6c9df-7683-4a9e-859c-53983febab60" /><br>
 
-<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
+Visualização Grafica do Job:<br>
+
+<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" /><br>
+
+Pode-se verificar que a a seguinte sequência de execução:<br>
+
+**1.** Execução do Notebook de exploração de dados da Camada Silver (Data_Exploration)<br>
+**2.** Execução do Pipeline (Restante da Camada Silver e inícioda Camada Gold)<br>
+**3.** Execução do Notebook Análise de Dados da Camada Gold (Data_Analisys)<br>
 
 <img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
 
