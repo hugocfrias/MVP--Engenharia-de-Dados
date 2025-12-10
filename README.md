@@ -57,8 +57,6 @@ O Catálogo dos dados foi realizado dentro da própria tabela importada (camada 
 <img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" />
 
 
-___________
-
 -  **Linhagem de Dados:**
     - Origem: Plataforma Kaggle
     - Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
