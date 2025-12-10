@@ -93,7 +93,7 @@ Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob
 
 >🥉Camada Bronze:
 
-Ingestão dos "Dados Raw" utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
+Ingestão dos ***Dados Raw*** utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
 
 <img width="550" height="185" alt="image" src="https://github.com/user-attachments/assets/45882e48-833a-4cc8-b92c-819759628f15" />
 
