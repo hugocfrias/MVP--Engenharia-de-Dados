@@ -107,6 +107,7 @@ Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/2.Camada_Sil
 
 Foi identificada a necessidade de remoção do atributo **'Mental Health Condition'**. Analisando o dataset original, foram encontrados 595 linhas nulas (status de 'None'). Por ser tratar de um estado de desordem mental (Mental Health Condition), tive a dúvida se realmente são informações faltantes ou simplesmente instâncias nas quais o respondente não possuía algum tipo de desordem mental. Persistente essa indefinição, optei pela remoção do atributo.
 
+**Pipeline (Camada Silver)**
 <img width="1320" height="435" alt="image" src="https://github.com/user-attachments/assets/321624c6-8b82-4efa-89b5-4201be147a02" />
 
 Código: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Silver_Tranformation.py
