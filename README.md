@@ -126,11 +126,11 @@ Esta etapa contém dados trabalhados e agregados que reponderam as principais pe
 
 Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). Dessa forma, não é possível o export do código com os outputs.
 
-https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
+Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
-https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
+Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
-Eviência Output: 
+Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Output_Camada_Gold.pdf
 ___________
 
 **4. Análises e Solução do Problema**
