@@ -86,6 +86,7 @@ Criação dos esquemas no Databricks:
 
 Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Catalog%20Creation.sql
 
+<br>
 
 >🥉Camada Bronze:
 
