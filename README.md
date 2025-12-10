@@ -110,7 +110,11 @@ Foi identificada a necessidade de remoção do atributo **'Mental Health Conditi
 **Pipeline (Camada Silver)**
 <img width="1320" height="435" alt="image" src="https://github.com/user-attachments/assets/321624c6-8b82-4efa-89b5-4201be147a02" />
 
-Código: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Silver_Tranformation.py
+Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). Dessa forma, não é possível o export do código com os outputs.
+
+Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Silver_Tranformation.py
+
+Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Output_Camada_Silver.pdf
 
 ___________
 >🥇Camada Gold:
