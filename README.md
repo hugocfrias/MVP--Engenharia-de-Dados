@@ -119,12 +119,18 @@ Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/ma
 ___________
 >🥇Camada Gold:
 
+Esta etapa contém dados trabalhados e agregados que reponderam as principais perguntas levantadas no início do projeto.
+
+**Pipeline (Camada Gold)**
 <img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
+
+Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). Dessa forma, não é possível o export do código com os outputs.
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
+Eviência Output: 
 ___________
 
 **4. Análises e Solução do Problema**
