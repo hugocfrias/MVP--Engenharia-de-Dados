@@ -12,23 +12,23 @@ E-mail: hugofrias2@hotmail.com
 
 O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma coleção abrangente de dados que visa compreender como diversos fatores de estilo de vida afetam o bem-estar mental. Esta base de dados captura aspectos como rotinas de exercícios, hábitos alimentares, padrões de sono, níveis de estresse e interações sociais, além de informações demográficas. A partir do conjunto de dados, se deseja responder as seguintes perguntas:
 
-1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
-
-2. Podemos identificar diferenças relevantes em atributos considerando determinada faixa etária?
-
-3. Quais países têm maior nível médio de estresse?
-
-4. Quais países têm maior felicidade média?
-
-5. Há países onde as pessoas dormem mais?
-
-6. O tempo de tela varia muito entre países?
-
-7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
-
-8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
-
-9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+    1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária?
+    
+    2. Podemos identificar diferenças relevantes em atributos considerando determinada faixa etária?
+    
+    3. Quais países têm maior nível médio de estresse?
+    
+    4. Quais países têm maior felicidade média?
+    
+    5. Há países onde as pessoas dormem mais?
+    
+    6. O tempo de tela varia muito entre países?
+    
+    7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+    
+    8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
+    
+    9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 **2. Coleta**
 
