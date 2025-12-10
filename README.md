@@ -144,6 +144,7 @@ ___________
 **5. Dashboards**
 
 <img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" />
+___________
 
 **6. Criação de Jobs**
 
@@ -152,6 +153,7 @@ ___________
 <img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
 
 <img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
+___________
 
 **7. Respostas das Perguntas Iniciais**
 
