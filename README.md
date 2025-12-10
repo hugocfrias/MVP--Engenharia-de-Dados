@@ -100,6 +100,8 @@ Segue no link abaixo a documentação (.pdf) do processo da camada bronze:
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Camada_Bronze_Processo.pdf
 
+<br>
+
 >🥈Camada Silver:
 
 A limpeza consiste na verificação da consistência das informações, correção de possíveis erros de preenchimento ou eliminação de valores desconhecidos, redundantes ou não pertencentes ao domínio.
@@ -119,6 +121,7 @@ Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/
 
 Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Output_Camada_Silver.pdf
 
+<br>
 
 >🥇Camada Gold:
 
