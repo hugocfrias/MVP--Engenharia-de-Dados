@@ -126,3 +126,7 @@ ___________
 
 Acessar Link: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Data_Analisys.html
 
+              https://hugocfrias.github.io/MVP--Engenharia-de-Dados//main/Data_Analisys.html
+              
+              https://hugocfrias.github.io/MVP--Engenharia-de-Dados/2.Camada_Silver/Exploration_Data.html
+
