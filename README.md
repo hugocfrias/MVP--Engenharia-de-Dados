@@ -155,8 +155,9 @@ ___________
 Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards análises graficas dos dados:
 <br>
 
-<img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" />
-<br>
+<img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" /><br>
+
+
 
 **Análise 1:** Os diferentes níveis de stress (Stress_Level) têm média de idade similares<br>
 **Análise 2:** O atributo de horas dormidas (Sleep_Hours) tem uma distrubuição normal<br>
