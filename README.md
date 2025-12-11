@@ -1,6 +1,6 @@
 # MVP- Engenharia-de-Dados 📊
 
-<font color="blue">Nome: Hugo Coelho de Frias</font>
+Nome: Hugo Coelho de Frias
 
 Matrícula: 4052025000248
 
