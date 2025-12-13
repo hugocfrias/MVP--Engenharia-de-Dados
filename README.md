@@ -102,7 +102,7 @@ Ingestão dos ***Dados Raw*** utilizando a funcionalidade nativa do Databricks p
 
 <img width="585" height="147" alt="image" src="https://github.com/user-attachments/assets/0fb63e41-d90b-4b49-9c36-852be9e70366" />
 
-Segue no link abaixo a documentação (.pdf) do processo da camada bronze:
+Link abaixo com a documentação (.pdf) do processo da camada bronze:<br>
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Camada_Bronze_Processo.pdf
 
