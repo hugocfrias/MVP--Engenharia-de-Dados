@@ -219,7 +219,12 @@ Na tabela criada na camada Gold (gold_transformation) podemos verificar que não
 <img width="809" height="188" alt="image" src="https://github.com/user-attachments/assets/3f1bf430-27a0-48aa-ba98-b385a5ddbe8e" /><br>
 
 
-3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
+>3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
+
+Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do score de interação social (Social_Interaction_Score). Podemos verificar que as maiores médias são dos Canada e USA.
+
+<img width="576" height="466" alt="image" src="https://github.com/user-attachments/assets/bbb7770c-12a1-4508-a3ec-af1bcb07a7b3" />><br>
+
 
 4. Quais países têm maior felicidade média?
 
