@@ -139,7 +139,11 @@ Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os có
 
 ***IMPORTANTE: DESCREVER O OBJETIVO DE CADA CÓDIGO!!!!!!!!!!!!!!***
 
+A primeira tabela criada na Camada Gold (Gold Transformation), tem o objetivo de comparar a totalidade das pessoas com a totalidade de pessoas acima de 40 anos. Nessse caso, o objetivo é o efeito da idade em atributos como, por exemplo, média do score de felicidade (Happiness_Score) e média de horas de sono (Sleep_Hours).
+
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
+
+A primeira tabela criada na Camada Gold (Gold Transformation), tem o objetivo de comparar a totalidade das pessoas com a totalidade de pessoas acima de 40 anos. Nessse caso, o objetivo é o efeito da idade em atributos como, por exemplo, média do score de felicidade (Happiness_Score) e média de horas de sono (Sleep_Hours).
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
