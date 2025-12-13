@@ -146,7 +146,7 @@ A segunda tabela criada na Camada Gold (Gold Transformation_2), tem o objetivo c
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
-Eviência Outputs Camada Gold: 
+Evidências Outputs Camada Gold: 
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Output_Camada_Gold.pdf
 
