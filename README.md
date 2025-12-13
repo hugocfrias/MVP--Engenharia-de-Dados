@@ -63,6 +63,8 @@ O Catálogo dos dados foi realizado dentro da própria tabela importada (camada 
     -  Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No           total,    possui 12 atributos.
    
 
+___________
+
 **🔼 4. Carga**
 
 Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada ***com a utilização da funcionalidade nativa do Databricks para a contrução de Pipelines***.
@@ -196,4 +198,10 @@ ___________
 **📖 7. Respostas das Perguntas Iniciais**
 
 
+___________
 
+
+**. Autoavaliação**
+
+
+___________
