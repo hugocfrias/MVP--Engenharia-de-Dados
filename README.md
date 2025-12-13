@@ -32,7 +32,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
-___________
+---
 
 **🔢 2. Coleta**
 
@@ -46,7 +46,7 @@ Os dados foram armazenados em um Volume do Databricks:
 
 <img width="1162" height="423" alt="image" src="https://github.com/user-attachments/assets/037e5b4b-5ab7-408c-b116-dd3d19680c55" />
 
-___________
+---
 
 **❄ 3. Modelagem**
 
@@ -63,7 +63,7 @@ O Catálogo dos dados foi realizado dentro da própria tabela importada (camada 
     -  Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No           total,    possui 12 atributos.
    
 
-___________
+---
 
 **🔼 4. Carga**
 
@@ -150,7 +150,8 @@ Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/ma
 ***EXPLICAR A ETAPA***
 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html
-___________
+
+---
 
 **📈 5. Dashboards Databricks**
 
@@ -168,7 +169,7 @@ Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards anál
 **Análise 5:** Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
 
 
-___________
+---
 
 **🔄 6. Criação de Jobs Databricks**
 
@@ -193,12 +194,12 @@ Pode-se verificar que a a seguinte sequência de execução:<br>
 <img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
 
 
-___________
+---
 
 **📖 7. Respostas das Perguntas Iniciais**
 
 
-___________
+---
 
 
 **. Autoavaliação**
