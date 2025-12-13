@@ -82,6 +82,7 @@ Fonte: https://www.databricks.com/glossary/medallion-architecture
 Arquitetura no Databricks:
 
 <img width="449" height="352" alt="image" src="https://github.com/user-attachments/assets/56502d4e-b22d-4266-ac94-e02780dba95f" />
+<br>
 
 Criação dos esquemas no Databricks:
 <br>
