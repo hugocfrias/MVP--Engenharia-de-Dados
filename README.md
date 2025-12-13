@@ -208,6 +208,12 @@ Pode-se verificar que a a seguinte sequência de execução:<br>
 
 As respostas para as perguntas levantadas no início do projeto serão respondidas com base nas informações geradas e dispobibilizadas nos item anteriores.<br>
 
+Principais Links: 
+
+https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Output_Camada_Gold.pdf<br>
+
+Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html<br>
+
 
 >1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
 
