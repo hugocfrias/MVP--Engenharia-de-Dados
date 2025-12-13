@@ -151,7 +151,7 @@ https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/O
 
 **Análises e Solução do Problema**
 
-***EXPLICAR A ETAPA***
+No fim, foi criado um notebook com uma análise exploratória de dados mais profundas. O objetivo é auxiliar nas perguntas levantadas no início do projeto. 
 
 Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html
 
