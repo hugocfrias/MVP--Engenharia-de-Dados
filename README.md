@@ -214,7 +214,7 @@ Na tabela criada na camada Gold (gold_transformation_2) é possível vermos que 
 
 >2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
 
-Na tabela criada na camada Gold (gold_transformation) podemos verificar que não há diferenças relevantes nas médias do total de pessoas com a média das pessoas acima dos 40 anos. As médias comparadas foram dos atributos **Happiness_Score** e **Sleep_Hours**
+Na tabela criada na camada Gold (gold_transformation) podemos verificar que não há diferenças relevantes nas médias do total de pessoas com a média das pessoas acima dos 40 anos. As médias comparadas foram dos atributos **Happiness_Score** e **Sleep_Hours**.
 
 <img width="809" height="188" alt="image" src="https://github.com/user-attachments/assets/3f1bf430-27a0-48aa-ba98-b385a5ddbe8e" /><br>
 
