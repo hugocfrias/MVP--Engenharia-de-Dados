@@ -202,7 +202,7 @@ Pode-se verificar que a a seguinte sequência de execução:<br>
 ---
 
 
-**. Autoavaliação**
+**.💡 Autoavaliação**
 
 
 ___________
