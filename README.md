@@ -14,7 +14,7 @@ E-mail: hugofrias2@hotmail.com
 
 O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma coleção abrangente de dados que visa compreender como diversos fatores de estilo de vida afetam o bem-estar mental. Esta base de dados captura aspectos como rotinas de exercícios, hábitos alimentares, padrões de sono, níveis de estresse e interações sociais, além de informações demográficas. A partir do conjunto de dados, se deseja responder as seguintes perguntas:
 
-1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
+>1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
 
 2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
 
