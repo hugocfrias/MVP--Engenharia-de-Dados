@@ -215,6 +215,7 @@ https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/O
 https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html<br>
 
 
+
 >1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
 
 ***Resposta:*** *Na tabela criada na camada Gold (gold_transformation_2) é possível vermos que há maior concentração de pessoas 60+ no nível de stress alto. Dessa forma, concluo que a idade dos indivíduos é um fator importante para níveis de stress.*
