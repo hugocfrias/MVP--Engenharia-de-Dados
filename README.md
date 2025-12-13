@@ -190,7 +190,7 @@ Utilizado a funcionalidade nativa da ferramenta, foi criado um **Job** com o obj
 Pode-se verificar que a a seguinte sequência de execução:<br>
 
 **1.** Execução do Notebook de exploração de dados da Camada Silver (Data_Exploration)<br>
-**2.** Execução do Pipeline (Restante da Camada Silver e inícioda Camada Gold)<br>
+**2.** Execução do Pipeline (Restante da Camada Silver e início da Camada Gold)<br>
 **3.** Execução do Notebook Análise de Dados da Camada Gold (Data_Analisys)<br>
 
 >Execução do Job:<br>
