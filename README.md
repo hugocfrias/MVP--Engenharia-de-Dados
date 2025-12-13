@@ -28,7 +28,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
+8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
 9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
@@ -229,7 +229,7 @@ Na tabela criada na camada Gold (gold_transformation) podemos verificar que não
 
 7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
+8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
 9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
