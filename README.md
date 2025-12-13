@@ -211,7 +211,12 @@ Na tabela criada na camada Gold (gold_transformation_2) é possível vermos que 
 
 <img width="369" height="352" alt="image" src="https://github.com/user-attachments/assets/1f0f9113-f077-4687-be81-0e78d9c058f1" />
 
-2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
+>2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
+
+Na tabela criada na camada Gold (gold_transformation) podemos verificar que não há diferenças relevantes nas médias do total de pessoas com a média das pessoas acima dos 40 anos. As médias comparadas foram dos atributos **Happiness_Score** e **Sleep_Hours**
+
+<img width="809" height="188" alt="image" src="https://github.com/user-attachments/assets/3f1bf430-27a0-48aa-ba98-b385a5ddbe8e" />
+
 
 3. Quais países têm maior nível médio de estresse?
 
