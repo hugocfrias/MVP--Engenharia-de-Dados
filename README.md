@@ -258,7 +258,7 @@ Os diferentes níveis de stress (Stress_Level) têm média de idade similares<br
 O atributo de horas dormidas (Sleep_Hours) tem uma distrubuição normal<br>
 A mediana dos das idades (Age) são bem próximas quando analisado o atributo do tipo de dieta (Diet_Type)<br>
 Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares<br>
-Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
+Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.<br>
 
 
 >8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
