@@ -202,6 +202,23 @@ Pode-se verificar que a a seguinte sequência de execução:<br>
 
 **📖 7. Respostas das Perguntas Iniciais**
 
+1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
+
+2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
+
+3. Quais países têm maior nível médio de estresse?
+
+4. Quais países têm maior felicidade média?
+
+5. Há países onde as pessoas dormem mais?
+
+6. O tempo de tela varia muito entre países?
+
+7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+
+8. Podemos identificar 'níveis de stress e bem-estar' de acordo com hábitos do cotidiano?
+
+9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 ---
 
