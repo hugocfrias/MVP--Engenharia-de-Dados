@@ -248,7 +248,18 @@ Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do tempo médio
 <img width="586" height="395" alt="image" src="https://github.com/user-attachments/assets/6ef59d84-2e4b-404c-bd59-d90344028b2c" /><br>
 
 
-7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+>7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+
+
+<img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" /><br>
+
+
+
+**Análise 1:** Os diferentes níveis de stress (Stress_Level) têm média de idade similares<br>
+**Análise 2:** O atributo de horas dormidas (Sleep_Hours) tem uma distrubuição normal<br>
+**Análise 3:** A mediana dos das idades (Age) são bem próximas quando analisado o atributo do tipo de dieta (Diet_Type)<br>
+**Análise 4:** Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares<br>
+**Análise 5:** Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
 
 8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
