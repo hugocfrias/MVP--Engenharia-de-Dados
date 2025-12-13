@@ -18,7 +18,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
 
-3. Quais países têm maior nível médio de estresse?
+3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
 
 4. Quais países têm maior felicidade média?
 
@@ -219,7 +219,7 @@ Na tabela criada na camada Gold (gold_transformation) podemos verificar que não
 <img width="809" height="188" alt="image" src="https://github.com/user-attachments/assets/3f1bf430-27a0-48aa-ba98-b385a5ddbe8e" /><br>
 
 
-3. Quais países têm maior nível médio de estresse?
+3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
 
 4. Quais países têm maior felicidade média?
 
