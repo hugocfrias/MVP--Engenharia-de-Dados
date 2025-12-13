@@ -9,7 +9,6 @@ Linkedin: https://www.linkedin.com/in/hugo-frias-7059b622/
 E-mail: hugofrias2@hotmail.com
 
 ---
-
 **🎯 1. Objetivo**
 
 O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma coleção abrangente de dados que visa compreender como diversos fatores de estilo de vida afetam o bem-estar mental. Esta base de dados captura aspectos como rotinas de exercícios, hábitos alimentares, padrões de sono, níveis de estresse e interações sociais, além de informações demográficas. A partir do conjunto de dados, se deseja responder as seguintes perguntas:
