@@ -20,7 +20,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
 
-4. Qual genero têm maior felicidade média?
+4. Qual gênero tem maior felicidade média?
 
 5. Há países onde as pessoas dormem mais?
 
@@ -226,7 +226,7 @@ Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do score de int
 <img width="576" height="466" alt="image" src="https://github.com/user-attachments/assets/bbb7770c-12a1-4508-a3ec-af1bcb07a7b3" /><br>
 
 
->4. Qual genero têm maior felicidade média?
+>4. Qual gênero tem maior felicidade média?
 
 Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do score de felicidade (Happiness_Score). Podemos verificar que a maior média é do gênero masculino (Male).
 
