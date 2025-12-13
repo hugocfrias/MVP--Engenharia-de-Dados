@@ -16,21 +16,21 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 >1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
 
-2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
+>2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
 
-3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
+>3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
 
-4. Qual gênero tem maior felicidade média?
+>4. Qual gênero tem maior felicidade média?
 
-5. Há países onde as pessoas dormem mais?
+>5. Há países onde as pessoas dormem mais?
 
-6. O tempo de tela varia muito entre os diferentes níveis de stress?
+>6. O tempo de tela varia muito entre os diferentes níveis de stress?
 
-7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+>7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
-8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
+>8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
-9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+>9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 ---
 
