@@ -261,7 +261,7 @@ Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhada
 Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
 
 
-8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
+>8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
 <img width="553" height="506" alt="image" src="https://github.com/user-attachments/assets/e0e8d860-4515-420a-b1d3-d3d835d865af" /><br>
 
