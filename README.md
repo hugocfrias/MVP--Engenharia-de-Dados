@@ -65,7 +65,7 @@ O Catálogo dos dados foi realizado dentro da própria tabela importada (camada 
 
 **🔼 4. Carga**
 
-Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada ***com a utilização da funcionalidade nativa do Databricks para contrução de Pipelines***.
+Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada ***com a utilização da funcionalidade nativa do Databricks para a contrução de Pipelines***.
 
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
