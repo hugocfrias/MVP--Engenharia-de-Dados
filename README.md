@@ -204,6 +204,10 @@ Pode-se verificar que a a seguinte sequência de execução:<br>
 
 1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
 
+Na tabela criada na camada Gold (gold_transformation_2) é possível vermos que há maior concentração de pessoas 60+ no nível de stress alto. Dessa forma, concluo que a idade dos indivíduos é um fator importante para níveis de stress.
+
+<img width="369" height="352" alt="image" src="https://github.com/user-attachments/assets/1f0f9113-f077-4687-be81-0e78d9c058f1" />
+
 2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
 
 3. Quais países têm maior nível médio de estresse?
