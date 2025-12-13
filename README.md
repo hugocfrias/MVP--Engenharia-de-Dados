@@ -212,7 +212,7 @@ Principais Links:
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Output_Camada_Gold.pdf<br>
 
-Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html<br>
+https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html<br>
 
 
 >1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
