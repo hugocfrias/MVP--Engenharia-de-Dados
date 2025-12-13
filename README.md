@@ -270,7 +270,7 @@ Resposta: Podemos ver no notebook 'Data_Analiys' o mapa de calor das correlaçã
 
 >9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
-Resposta: Podemos ver no notebook 'Data_Analiys' que não há diferenças consideráveis entre as médias dos atributos mencionados.
+**Resposta:** *Podemos ver no notebook 'Data_Analiys' que não há diferenças consideráveis entre as médias dos atributos mencionados.*
 
 <img width="662" height="476" alt="image" src="https://github.com/user-attachments/assets/b1a0e71a-c1fc-4e8b-acc4-c9f9e334d821" /><br>
 
