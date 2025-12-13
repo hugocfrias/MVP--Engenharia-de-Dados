@@ -262,6 +262,9 @@ Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões m
 
 8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
+<img width="551" height="552" alt="image" src="https://github.com/user-attachments/assets/0309ba5d-3c4f-4309-996f-2cbdee7ec96f" />
+
+
 9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
 
 ---
