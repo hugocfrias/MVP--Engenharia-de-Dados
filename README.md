@@ -24,7 +24,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 5. Há países onde as pessoas dormem mais?
 
-6. O tempo de tela varia muito entre países?
+6. O tempo de tela varia muito entre os diferentes níveis de stress?
 
 7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
@@ -233,14 +233,19 @@ Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do score de fel
 <img width="523" height="400" alt="image" src="https://github.com/user-attachments/assets/59d4aeea-c61d-4a7d-a626-32fab68c6676" /><br>
 
 
-5. Há países onde as pessoas dormem mais?
+>5. Há países onde as pessoas dormem mais?
 
 Podemos ver no notebook 'Data_Analiys' o ordenamento das médias de horas de sono (Sleep_Hours). Embora as maiores médias sejam de Canada e Japão, não há diferenças relevantes entre as médias.
 
 <img width="498" height="452" alt="image" src="https://github.com/user-attachments/assets/2a5b7dba-f74f-406c-814b-611496d3cea9" /><br>
 
 
-6. O tempo de tela varia muito entre países?
+>6. O tempo de tela varia muito entre os diferentes níveis de stress?
+
+Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do tempo médio em telas (Screen_Time_per_Day_Hours). Não há diferenças relevantes entre as médias dos diferentes níveis de stress.
+
+<img width="586" height="395" alt="image" src="https://github.com/user-attachments/assets/6ef59d84-2e4b-404c-bd59-d90344028b2c" /><br>
+
 
 7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
 
