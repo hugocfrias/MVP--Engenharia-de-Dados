@@ -260,9 +260,10 @@ A mediana dos das idades (Age) são bem próximas quando analisado o atributo do
 Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares<br>
 Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
 
+
 8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
 
-<img width="551" height="552" alt="image" src="https://github.com/user-attachments/assets/0309ba5d-3c4f-4309-996f-2cbdee7ec96f" />
+<img width="553" height="506" alt="image" src="https://github.com/user-attachments/assets/e0e8d860-4515-420a-b1d3-d3d835d865af" /><br>
 
 
 9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
