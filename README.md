@@ -59,17 +59,17 @@ O catálogo dos dados foi estruturado diretamente sobre a tabela importada, comp
 <img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" /><br>
 
 
->Country: País do respondente (Australia, Brazil, Canada, Germany, India, Japan, USA)
->Age: Idade do respondente (Anos)
->Gender: Identidade de gênero do respondente (Female, Male, Other)
->Exercise Level: Nível de exercício físico do respondente (High, Low, Moderate)
->Diet Type: Classificação da dieta do respondente (Balanced, Junk Food, Keto, Vegan, Vegetarian)
->Sleep Hours: Horas de sono diária do respondente (Horas)
->Stress Level: Nível de stress do respondente (High, Low, Moderate)
->Mental Health Condition: Condição de saúde mental do respondente (Anxiety, Bipolar, Depression, None, PTSD)
->Work Hours per Week: Horas de trabalho diária do respondente (Horas)
->Screen Time per Day: Tempo de tela diária do respondente (Horas)
->Social Interaction Score: Pontuação de interação Social do respondente (Escala 1-10)
+>Country: País do respondente (Australia, Brazil, Canada, Germany, India, Japan, USA)<br>
+>Age: Idade do respondente (Anos)<br>
+>Gender: Identidade de gênero do respondente (Female, Male, Other)<br>
+>Exercise Level: Nível de exercício físico do respondente (High, Low, Moderate)<br>
+>Diet Type: Classificação da dieta do respondente (Balanced, Junk Food, Keto, Vegan, Vegetarian)<br>
+>Sleep Hours: Horas de sono diária do respondente (Horas)<br>
+>Stress Level: Nível de stress do respondente (High, Low, Moderate)<br>
+>Mental Health Condition: Condição de saúde mental do respondente (Anxiety, Bipolar, Depression, None, PTSD)<br>
+>Work Hours per Week: Horas de trabalho diária do respondente (Horas)<br>
+>Screen Time per Day: Tempo de tela diária do respondente (Horas)<br>
+>Social Interaction Score: Pontuação de interação Social do respondente (Escala 1-10)<br>
 >Happiness Score: Pontuação de Felicidade do respondente (Escala 1-10)<br>
 
 -  **Linhagem de Dados:**
