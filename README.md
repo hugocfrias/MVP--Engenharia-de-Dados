@@ -36,13 +36,15 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 **🔢 2. Coleta**
 
-O dataset analisado foi escoliho na coleção da plataforma Kaggle:
+O dataset analisado foi selecionado a partir da coleção disponível na plataforma Kaggle:
 
 Dataset: https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024
 
 Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No total, possui 12 atributos.
 
-Os dados foram armazenados em um Volume do Databricks:
+Trata-se de um conjunto de dados composto por uma **única tabela**, contendo aproximadamente 3.000 instâncias. O dataset é balanceado em relação aos seus principais atributos categóricos (como País, Gênero, Tipo de Dieta, entre outros) e possui, ao todo, 12 atributos.
+
+Os dados foram armazenados em um Volume do Databricks, permitindo sua ingestão e processamento ao longo das etapas do projeto.
 
 <img width="1162" height="423" alt="image" src="https://github.com/user-attachments/assets/037e5b4b-5ab7-408c-b116-dd3d19680c55" />
 
