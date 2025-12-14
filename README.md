@@ -44,7 +44,7 @@ Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de man
 
 Trata-se de um conjunto de dados composto por uma **única tabela**, contendo aproximadamente 3.000 instâncias. O dataset é balanceado em relação aos seus principais atributos categóricos (como País, Gênero, Tipo de Dieta, entre outros) e possui, ao todo, 12 atributos.
 
-Os dados foram armazenados em um Volume do Databricks, permitindo sua ingestão e processamento ao longo das etapas do projeto.
+Os dados foram armazenados em um **Volume do Databricks**, permitindo sua ingestão e processamento ao longo das etapas do projeto.
 
 <img width="1162" height="423" alt="image" src="https://github.com/user-attachments/assets/037e5b4b-5ab7-408c-b116-dd3d19680c55" />
 
@@ -52,9 +52,9 @@ Os dados foram armazenados em um Volume do Databricks, permitindo sua ingestão 
 
 **❄ 3. Modelagem**
 
-Como citado no item anterior de coleta de dados, o dataset 'Mental Health and Lifestyle Habits Dataset (2019-2024)' ***é uma tabela única na qual não se torna necessária a construção de esquemas mais refinados, como Esquema Estrela ou Snowflake***.
+Como mencionado na etapa de coleta de dados, o dataset “Mental Health and Lifestyle Habits Dataset (2019–2024)” ***consiste em uma única tabela. Por esse motivo, não há necessidade de modelagens mais complexas, como esquemas em Estrela ou Snowflake***.
 
-O Catálogo dos dados foi realizado dentro da própria tabela importada (camada bronze do Databricks):
+O catálogo dos dados foi estruturado diretamente sobre a tabela importada, compondo a camada Bronze do Databricks, onde o dataset foi armazenado e disponibilizado para as etapas seguintes de transformação e análise.
 
 <img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" />
 
@@ -62,21 +62,21 @@ O Catálogo dos dados foi realizado dentro da própria tabela importada (camada 
 -  **Linhagem de Dados:**
     - Origem: Plataforma Kaggle
     - Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
-    -  Trata-se de um de um dataset (tabela única) que possui 3000 instâncias, de maneira balanceada em relação aos seus atributos categóricos (Países, Gêneros, Tipo de Dieta etc). No           total,    possui 12 atributos.
+    -  O dataset consiste em uma tabela única com aproximadamente 3.000 instâncias, apresentando distribuição balanceada entre seus principais atributos categóricos (como País, Gênero, Tipo de Dieta, entre outros). No total, o conjunto de dados contém 12 atributos.
    
 
 ---
 
 **🔼 4. Carga**
 
-Toda a etapa de ETL (Extração, Transformação e Carga) foi realizada ***com a utilização da funcionalidade nativa do Databricks para a contrução de Pipelines***.
+Toda a etapa de ETL (Extração, Transformação e Carga) ***foi executada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite orquestrar e automatizar o fluxo de dados de forma integrada e escalável.***
 
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
 
-Todo conceito de contrução foi baseado na metolologia **'Medallion Architecture'**:
+A construção do pipeline seguiu os princípios da **Medallion Architecture**, metodologia recomendada pelo Databricks para organizar dados em camadas (Bronze, Silver e Gold), garantindo qualidade, rastreabilidade e governança ao longo de todo o processo:/><br>
 
-<img width="662" height="318" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />
+<img width="662" height="318" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />/><br>
 <br>
 
 Fonte: https://www.databricks.com/glossary/medallion-architecture
@@ -85,12 +85,14 @@ Arquitetura no Databricks:
 
 <img width="449" height="352" alt="image" src="https://github.com/user-attachments/assets/56502d4e-b22d-4266-ac94-e02780dba95f" /><br>
 
+A arquitetura do projeto foi organizada seguindo as boas práticas recomendadas pelo Databricks, contemplando as camadas de ingestão, transformação e disponibilização dos dados.<br>
 
 Criação dos esquemas no Databricks:
 <br>
 
 <img width="576" height="325" alt="image" src="https://github.com/user-attachments/assets/e6664da5-cd95-47d3-a69b-b4796307aa64" /><br>
 
+A estruturação dos esquemas foi realizada diretamente no ambiente do Databricks, garantindo organização, governança e separação lógica entre as diferentes camadas do pipeline de dados.<br>
 
 Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Catalog%20Creation.sql
 
