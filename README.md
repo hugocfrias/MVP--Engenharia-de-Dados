@@ -316,8 +316,6 @@ https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisy
 
 >1. Planejamento e Estruturação do Projeto
 
-Acredito que o projeto foi desenvolvido de forma coerente, seguindo as estrutura **Medallion Architecture** (Bronze, Silver e Gold). Essa estrutura permitiu um melhor entendimento de cada fase para melhor clareza metodológica.
-
 Considero que o projeto foi desenvolvido de forma coerente, seguindo a estrutura da  **Medallion Architecture** (Bronze, Silver e Gold). Essa abordagem permitiu compreender claramente cada etapa do processo, garantindo maior organização e clareza metodológica.
 
 **Oportunidade de melhoria:** incluir diagramas customizados adicionais para aprimorar a visualização da arquitetura.
