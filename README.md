@@ -307,7 +307,7 @@ https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisy
 *O atributo de horas dormidas (Sleep_Hours) segue uma distribuição aproximadamente normal.*<br>
 *As medianas do atributo idade (Age) são próximas analisando os diferentes tipo de dieta (Diet_Type).*<br>
 *Os gêneros (Gender) apresentam médias similares de horas semanais trabalhadas (Work_Hours_per_Week).*<br>
-* O dataset é balanceado, o que favorece conclusões mais robustas.*<br>
+*O dataset é balanceado, o que favorece conclusões mais robustas.*<br>
 
 
 >8. Existe correlação entre os atributos numéricos do dataset?
