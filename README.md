@@ -152,11 +152,12 @@ O pipeline foi construído utilizando a **funcionalidade nativa de Pipelines do 
 
 **1. Gold Transformation**
 
-A primeira tabela da Camada Gold tem como objetivo **comparar a população total com o grupo de indivíduos acima de 40 anos**. O foco dessa análise é avaliar o impacto da idade em atributos como:
+A primeira tabela da Camada Gold tem como objetivo **comparar a população total com o grupo de indivíduos acima de 40 anos**. 
+O foco dessa análise é avaliar o impacto da idade em atributos como:
 
-média do score de felicidade (**Happiness_Score**)
+- média do score de felicidade (**Happiness_Score**)
 
-média de horas de sono (**Sleep_Hours**)
+- média de horas de sono (**Sleep_Hours**)
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
