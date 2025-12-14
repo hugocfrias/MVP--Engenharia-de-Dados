@@ -203,8 +203,9 @@ Utilizando a funcionalidade nativa da plataforma, foi criado um **Job** com o ob
 <img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
 <br>
 
-<img width="801" height="268" alt="image" src="https://github.com/user-attachments/assets/5b9c88eb-e30e-459f-be77-081cb0d7b990" />
+<img width="801" height="268" alt="image" src="https://github.com/user-attachments/assets/5b9c88eb-e30e-459f-be77-081cb0d7b990" /><br>
 <br>
+
 
 A partir da visualização, é possível identificar a seguinte **sequência de execução**:<br>
 
