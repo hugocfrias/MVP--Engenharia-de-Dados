@@ -111,7 +111,7 @@ https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze
 
 <br>
 
->**🥈Camada Silver**:
+>**🥈CAMADA SILVER**:
 
 A etapa de limpeza dos dados envolveu a verificação da consistência das informações, a correção de possíveis erros de preenchimento e a eliminação de valores desconhecidos, redundantes ou fora do domínio esperado.
 
@@ -132,7 +132,7 @@ Evidência dos Outputs: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/b
 
 <br>
 
->**🥇Camada Gold**:
+>**🥇CAMADA GOLD**:
 
 A Camada Gold reúne os dados refinados e agregados, estruturados especificamente para responder às principais perguntas definidas no início do projeto. É nesta etapa que os insights finais são consolidados e preparados para consumo analítico.
 
