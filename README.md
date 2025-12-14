@@ -10,7 +10,7 @@ E-mail: hugofrias2@hotmail.com
 
 ---
 
-## **🎯 1. Objetivo**
+### **🎯 1. Objetivo**
 
 O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' é uma coleção abrangente de dados que visa compreender como diversos fatores de estilo de vida afetam o bem-estar mental. Esta base de dados captura aspectos como rotinas de exercícios, hábitos alimentares, padrões de sono, níveis de estresse e interações sociais, além de informações demográficas. A partir do conjunto de dados, se deseja responder as seguintes perguntas:
 
@@ -34,7 +34,7 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 ---
 
-##**🔢 2. Coleta**
+### **🔢 2. Coleta**
 
 O dataset analisado foi selecionado a partir da coleção disponível na plataforma Kaggle:
 
@@ -50,7 +50,7 @@ Os dados foram armazenados em um **Volume do Databricks**, permitindo sua ingest
 
 ---
 
-**❄ 3. Modelagem**
+### **❄ 3. Modelagem**
 
 Como mencionado na etapa de coleta de dados, o dataset “Mental Health and Lifestyle Habits Dataset (2019–2024)” ***consiste em uma única tabela. Por esse motivo, não há necessidade de modelagens mais complexas, como esquemas em Estrela ou Snowflake***.
 
@@ -67,7 +67,7 @@ O catálogo dos dados foi estruturado diretamente sobre a tabela importada, comp
 
 ---
 
-**🔼 4. Carga**
+### **🔼 4. Carga**
 
 Toda a etapa de ETL (Extração, Transformação e Carga) ***foi executada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite orquestrar e automatizar o fluxo de dados de forma integrada e escalável.*** <br>
 
@@ -172,7 +172,7 @@ Acessar Análise Completa: https://hugocfrias.github.io/MVP--Engenharia-de-Dados
 
 ---
 
-**📈 5. Dashboards Databricks**
+### **📈 5. Dashboards Databricks**
 
 Utilizando a funcionalidade nativa de **Dashboards do Databricks**, foi possível visualizar diversas **análises gráficas** dos dados, facilitando a interpretação dos padrões e insights identificados ao longo do projeto.
 <br>
@@ -188,7 +188,7 @@ Utilizando a funcionalidade nativa de **Dashboards do Databricks**, foi possíve
 
 ---
 
-**🔄 6. Criação de Jobs Databricks**
+### **🔄 6. Criação de Jobs Databricks**
 
 Utilizando a funcionalidade nativa da plataforma, foi criado um **Job** com o objetivo de **agendar e orquestrar as tarefas** do pipeline de forma automatizada:<br>
 
@@ -220,7 +220,7 @@ A partir da visualização, é possível identificar a seguinte **sequência de 
 
 ---
 
-**📖 7. Respostas das Perguntas Iniciais**
+### **📖 7. Respostas das Perguntas Iniciais**
 
 As respostas para as perguntas levantadas no início do projeto serão respondidas com base nas informações geradas e dispobibilizadas nos item anteriores.<br>
 
@@ -306,7 +306,7 @@ https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisy
 ---
 
 
-**💡 8. Autoavaliação**
+### **💡 8. Autoavaliação**
 
 >1. Planejamento e Estruturação do Projeto
 
