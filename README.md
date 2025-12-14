@@ -100,6 +100,8 @@ Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob
 
 >**🥉CAMADA BRONZE**:
 
+<br>
+
 A ingestão dos dados brutos **(Raw Data)** foi realizada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite iniciar o fluxo de processamento de forma automatizada e integrada ao ambiente da plataforma.
 
 <img width="550" height="185" alt="image" src="https://github.com/user-attachments/assets/45882e48-833a-4cc8-b92c-819759628f15" />
@@ -113,6 +115,8 @@ https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze
 <br>
 
 >**🥈CAMADA SILVER**:
+
+<br>
 
 A etapa de limpeza dos dados envolveu a verificação da consistência das informações, a correção de possíveis erros de preenchimento e a eliminação de valores desconhecidos, redundantes ou fora do domínio esperado.
 
@@ -134,6 +138,8 @@ Evidência dos Outputs: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/b
 <br>
 
 >**🥇CAMADA GOLD**:
+
+<br>
 
 A Camada Gold reúne os dados refinados e agregados, estruturados especificamente para responder às principais perguntas definidas no início do projeto. É nesta etapa que os insights finais são consolidados e preparados para consumo analítico.
 
