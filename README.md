@@ -58,7 +58,7 @@ O catálogo dos dados foi estruturado diretamente sobre a tabela importada, comp
 
 <img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" /><br>
 
-<u>**Catálogo de Dados**</u>
+**Catálogo de Dados**
 
 >Country: País do respondente (Australia, Brazil, Canada, Germany, India, Japan, USA)<br>
 >Age: Idade do respondente (Anos)<br>
