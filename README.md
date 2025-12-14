@@ -95,10 +95,9 @@ Criação dos esquemas no Databricks:
 A estruturação dos esquemas foi realizada diretamente no ambiente do Databricks, garantindo organização, governança e separação lógica entre as diferentes camadas do pipeline de dados.<br>
 
 Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/Catalog%20Creation.sql
-
 <br>
 
->**🥉Camada Bronze**:
+#### >**🥉Camada Bronze**:
 
 A ingestão dos dados brutos **(Raw Data)** foi realizada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite iniciar o fluxo de processamento de forma automatizada e integrada ao ambiente da plataforma.
 
