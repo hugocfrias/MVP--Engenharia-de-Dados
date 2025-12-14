@@ -190,7 +190,7 @@ Utilizando a funcionalidade nativa de **Dashboards do Databricks**, foi possíve
 
 **🔄 6. Criação de Jobs Databricks**
 
-Utilizado a funcionalidade nativa da ferramenta, foi criado um **Job** com o objetivo de agendar e orquestrar tarefas:<br>
+Utilizando a funcionalidade nativa da plataforma, foi criado um **Job** com o objetivo de **agendar e orquestrar as tarefas** do pipeline de forma automatizada:<br>
 
 >Criação do Job:<br>
 
@@ -203,11 +203,11 @@ Utilizado a funcionalidade nativa da ferramenta, foi criado um **Job** com o obj
 <img width="801" height="268" alt="image" src="https://github.com/user-attachments/assets/5b9c88eb-e30e-459f-be77-081cb0d7b990" />
 
 
-Pode-se verificar que a a seguinte sequência de execução:<br>
+A partir da visualização, é possível identificar a seguinte **sequência de execução**:<br>
 
-**1.** Execução do Notebook de exploração de dados da Camada Silver (Data_Exploration)<br>
-**2.** Execução do Pipeline (Restante da Camada Silver e início da Camada Gold)<br>
-**3.** Execução do Notebook Análise de Dados da Camada Gold (Data_Analisys)<br>
+**1.** Execução do notebook de exploração de dados da **Camada Silver** (Data_Exploration)<br>
+**2.** Execução do **Pipeline**, contemplando o restante da Camada Silver e o início da Camada Gold<br>
+**3.** Execução do notebook de **Análise de Dados da Camada Gold** (Data_Analisys)<br>
 
 >Execução do Job:<br>
 
