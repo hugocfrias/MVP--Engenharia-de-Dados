@@ -192,14 +192,17 @@ Utilizando a funcionalidade nativa de **Dashboards do Databricks**, foi possíve
 
 Utilizando a funcionalidade nativa da plataforma, foi criado um **Job** com o objetivo de **agendar e orquestrar as tarefas** do pipeline de forma automatizada:<br>
 
->Criação do Job:<br>
+>Criação do Job:
+><br>
 
 <img width="1323" height="352" alt="image" src="https://github.com/user-attachments/assets/0fe6c9df-7683-4a9e-859c-53983febab60" /><br>
 
->Visualização Gráfica do Job:<br>
+>Visualização Gráfica do Job:
+><br>
 
-<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" /><br>
+<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
 <br>
+
 <img width="801" height="268" alt="image" src="https://github.com/user-attachments/assets/5b9c88eb-e30e-459f-be77-081cb0d7b990" />
 
 
@@ -209,7 +212,8 @@ A partir da visualização, é possível identificar a seguinte **sequência de 
 **2.** Execução do **Pipeline**, contemplando o restante da Camada Silver e o início da Camada Gold<br>
 **3.** Execução do notebook de **Análise de Dados da Camada Gold** (Data_Analisys)<br>
 
->Execução do Job:<br>
+>Execução do Job:
+><br>
 
 <img width="1103" height="399" alt="image" src="https://github.com/user-attachments/assets/11469ed4-f737-4ec6-9c13-1f77ebc2a711" />
 
