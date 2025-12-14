@@ -144,23 +144,31 @@ O pipeline foi construído utilizando a **funcionalidade nativa de Pipelines do 
 
 **Tabelas Criadas na Camada Gold**
 
-A primeira tabela criada na Camada Gold (Gold Transformation), tem o objetivo de comparar a totalidade das pessoas com a totalidade de pessoas acima de 40 anos. Nessse caso, o objetivo é o efeito da idade em atributos como, por exemplo, média do score de felicidade (Happiness_Score) e média de horas de sono (Sleep_Hours).
+1. Gold Transformation
+
+A primeira tabela da Camada Gold tem como objetivo **comparar a população total com o grupo de indivíduos acima de 40 anos**. O foco dessa análise é avaliar o impacto da idade em atributos como:
+
+média do score de felicidade (**Happiness_Score**)
+
+média de horas de sono (**Sleep_Hours**)
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
-A segunda tabela criada na Camada Gold (Gold Transformation_2), tem o objetivo criar faixas de idade e fazer um contagem de indivíduos dentro de cada tipo do atributo de nível de stress (Stress_Level).
+2. Gold Transformation 2
+
+A segunda tabela tem como objetivo **criar faixas etárias** e realizar a **contagem de indivíduos por nível de stress (Stress_Level)** dentro de cada faixa. Essa estrutura permite identificar padrões de stress ao longo das diferentes idades.
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation_2.py
 
-Evidências Outputs Camada Gold: 
+Evidências dos Outputs da Camada Gold:
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Output_Camada_Gold.pdf
 
 **Análises e Solução do Problema**
 
-No fim, foi criado um notebook com uma análise exploratória de dados mais profundas. O objetivo é auxiliar nas perguntas levantadas no início do projeto. 
+Para complementar as tabelas da Camada Gold, foi desenvolvido um notebook com uma análise exploratória aprofundada, voltada a responder de forma objetiva as questões levantadas no início do projeto.
 
-Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html
+Acessar Análise Completa: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisys.html
 
 ---
 
