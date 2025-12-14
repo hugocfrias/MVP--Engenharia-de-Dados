@@ -308,19 +308,22 @@ https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisy
 
 **💡 8. Autoavaliação**
 
-1. Planejamento e Estruturação do Projeto
+>1. Planejamento e Estruturação do Projeto
 
 Acredito que o projeto foi desenvolvido de forma coerente, seguindo as estrutura **Medallion Architecture** (Bronze, Silver e Gold). Essa estrutura permitiu um melhor entendimento de cada fase para melhor clareza metodológica.
 
-**Oportunidade de melhoria:**  Inclusão de diagramas customizados adicionais para melhor visualização da arquitetura.
+Considero que o projeto foi desenvolvido de forma coerente, seguindo a estrutura da  **Medallion Architecture** (Bronze, Silver e Gold). Essa abordagem permitiu compreender claramente cada etapa do processo, garantindo maior organização e clareza metodológica.
 
-2. Análise Técnica
+**Oportunidade de melhoria:** incluir diagramas customizados adicionais para aprimorar a visualização da arquitetura.
 
-O projeto foi praticamente todo baseado nos recursos nativos do Databricks, incluindo **Pipelines**, **Jobs**, **Volumes**, **Dashboards** e **notebooks**. As camadas Bronze, Silver e Gold foram criadas com os recursos das ferramentas de contrução de ETL.
+>2. Análise Técnica
 
-**Oportunidade de melhoria:** Como foram utilizadas funcionalidades nativas, é possível o aprimoramentyo de técnicas mais avançadas utilizando Spark.
+O projeto foi construído majoritariamente com os recursos nativos do Databricks, como **Pipelines**, **Jobs**, **Volumes**, **Dashboards** e **notebooks**. As camadas Bronze, Silver e Gold foram implementadas utilizando as ferramentas de construção de ETL disponibilizadas pela plataforma.
 
-3. Resumo Geral da Autoavaliação
-Considero que o projeto foi executado com qualidade técnica, organização e clareza analítica. Demonstrei domínio das ferramentas, capacidade de resolver problemas e habilidade para transformar dados brutos em informações úteis. Como evolução, pretendo aprofundar técnicas avançadas de análise e otimização de pipelines, além de enriquecer ainda mais a comunicação dos resultados.
+**Oportunidade de melhoria:** como o projeto utilizou principalmente funcionalidades nativas, há espaço para aprofundar técnicas mais avançadas com Spark.
+
+>3. Resumo Geral da Autoavaliação
+
+Avalio que o MVP foi desenvolvido com técnicas adequadas e análises exploratórias bem estruturadas. A combinação entre a arquitetura de pipelines do Databricks e o uso de código Python/Spark mostrou-se eficiente para alcançar as conclusões propostas. Como evolução, pretendo aprofundar conhecimentos em integração de dados com outras plataformas em nuvem e explorar abordagens mais avançadas de engenharia de dados.
 
 ---
