@@ -56,8 +56,21 @@ Como mencionado na etapa de coleta de dados, o dataset “Mental Health and Life
 
 O catálogo dos dados foi estruturado diretamente sobre a tabela importada, compondo a camada Bronze do Databricks, onde o dataset foi armazenado e disponibilizado para as etapas seguintes de transformação e análise.
 
-<img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" />
+<img width="1143" height="490" alt="image" src="https://github.com/user-attachments/assets/a70432cf-3e12-446f-9848-b61608ce702c" /><br>
 
+
+>Country: País do respondente (Australia, Brazil, Canada, Germany, India, Japan, USA)
+>Age: Idade do respondente (Anos)
+>Gender: Identidade de gênero do respondente (Female, Male, Other)
+>Exercise Level: Nível de exercício físico do respondente (High, Low, Moderate)
+>Diet Type: Classificação da dieta do respondente (Balanced, Junk Food, Keto, Vegan, Vegetarian)
+>Sleep Hours: Horas de sono diária do respondente (Horas)
+>Stress Level: Nível de stress do respondente (High, Low, Moderate)
+>Mental Health Condition: Condição de saúde mental do respondente (Anxiety, Bipolar, Depression, None, PTSD)
+>Work Hours per Week: Horas de trabalho diária do respondente (Horas)
+>Screen Time per Day: Tempo de tela diária do respondente (Horas)
+>Social Interaction Score: Pontuação de interação Social do respondente (Escala 1-10)
+>Happiness Score: Pontuação de Felicidade do respondente (Escala 1-10)<br>
 
 -  **Linhagem de Dados:**
     - Origem: Plataforma Kaggle
