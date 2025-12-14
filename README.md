@@ -69,7 +69,7 @@ O catálogo dos dados foi estruturado diretamente sobre a tabela importada, comp
 
 **🔼 4. Carga**
 
-Toda a etapa de ETL (Extração, Transformação e Carga) ***foi executada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite orquestrar e automatizar o fluxo de dados de forma integrada e escalável.***
+Toda a etapa de ETL (Extração, Transformação e Carga) ***foi executada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite orquestrar e automatizar o fluxo de dados de forma integrada e escalável.*** <br>
 
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" />
 
