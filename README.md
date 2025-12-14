@@ -206,15 +206,12 @@ Utilizando a funcionalidade nativa da plataforma, foi criado um **Job** com o ob
 <img width="801" height="268" alt="image" src="https://github.com/user-attachments/assets/5b9c88eb-e30e-459f-be77-081cb0d7b990" />
 <br>
 
-
-
 A partir da visualização, é possível identificar a seguinte **sequência de execução**:<br>
 
 **1.** Execução do notebook de exploração de dados da **Camada Silver** (Data_Exploration)<br>
 **2.** Execução do **Pipeline**, contemplando o restante da Camada Silver e o início da Camada Gold<br>
 **3.** Execução do notebook de **Análise de Dados da Camada Gold** (Data_Analisys)<br>
 <br>
-
 >Execução do Job:
 ><br>
 
