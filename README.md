@@ -200,8 +200,9 @@ Utilizando a funcionalidade nativa da plataforma, foi criado um **Job** com o ob
 >Visualização Gráfica do Job:
 ><br>
 
-<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" />
+<img width="1146" height="454" alt="image" src="https://github.com/user-attachments/assets/4332550a-4edf-4eb4-9cd8-f09db453c5bf" /><br>
 <br>
+
 
 <img width="801" height="268" alt="image" src="https://github.com/user-attachments/assets/5b9c88eb-e30e-459f-be77-081cb0d7b990" /><br>
 <br>
