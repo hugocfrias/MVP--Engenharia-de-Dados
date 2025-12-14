@@ -100,13 +100,13 @@ Acessar Arquivo SQL: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob
 
 >🥉Camada Bronze:
 
-Ingestão dos ***Dados Raw*** utilizando a funcionalidade nativa do Databricks para o início do Pipeline:
+A ingestão dos dados brutos **(Raw Data)** foi realizada utilizando a funcionalidade nativa de Pipelines do Databricks, que permite iniciar o fluxo de processamento de forma automatizada e integrada ao ambiente da plataforma.
 
 <img width="550" height="185" alt="image" src="https://github.com/user-attachments/assets/45882e48-833a-4cc8-b92c-819759628f15" />
 
 <img width="585" height="147" alt="image" src="https://github.com/user-attachments/assets/0fb63e41-d90b-4b49-9c36-852be9e70366" />
 
-Link abaixo com a documentação (.pdf) do processo da camada bronze:<br>
+Para mais detalhes sobre o processo de ingestão e estruturação da Camada Bronze, consulte a documentação (.pdf) disponível no link abaixo:<br>
 
 https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze/Camada_Bronze_Processo.pdf
 
@@ -114,22 +114,22 @@ https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/1.Camada_Bronze
 
 >🥈Camada Silver:
 
-A limpeza consiste na verificação da consistência das informações, correção de possíveis erros de preenchimento ou eliminação de valores desconhecidos, redundantes ou não pertencentes ao domínio.
+A etapa de limpeza dos dados envolveu a verificação da consistência das informações, a correção de possíveis erros de preenchimento e a eliminação de valores desconhecidos, redundantes ou fora do domínio esperado.
 
-Foi criado um notebook com uma análise primária para a detecção de possíveis comportamentos que fossem prejudiciais às análises finais.
+Para apoiar esse processo, foi criado um notebook dedicado à **análise exploratória inicial**, com o objetivo de identificar comportamentos que pudessem comprometer as análises posteriores.
 
-Acessar Link: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/2.Camada_Silver/Exploration_Data.html
+Exploração Inicial dos Dados: https://hugocfrias.github.io/MVP--Engenharia-de-Dados/2.Camada_Silver/Exploration_Data.html
 
-Foi identificada a necessidade de remoção do atributo **'Mental Health Condition'**. Analisando o dataset original, foram encontrados 595 linhas nulas (status de 'None'). Por ser tratar de um estado de desordem mental (Mental Health Condition), tive a dúvida se realmente são informações faltantes ou simplesmente instâncias nas quais o respondente não possuía algum tipo de desordem mental. Persistente essa indefinição, optei pela remoção do atributo.
+Durante essa análise, identificou-se a necessidade de remover o atributo **“Mental Health Condition”**. No dataset original, foram encontradas **595 linhas com valor nulo (“None”)**. Por se tratar de um atributo relacionado a condições de saúde mental, não foi possível determinar se esses valores representavam dados ausentes ou simplesmente a ausência de qualquer condição relatada pelo respondente. Diante dessa indefinição e para evitar interpretações equivocadas, optou-se pela **remoção completa do atributo**.
 
-**Pipeline (Camada Silver)**
+**Pipeline – Camada Silver**
 <img width="1320" height="435" alt="image" src="https://github.com/user-attachments/assets/321624c6-8b82-4efa-89b5-4201be147a02" />
 
-Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). **Dessa forma, NÃO é possível o export do código com os outputs.**
+O pipeline da Camada Silver foi construído utilizando a **funcionalidade nativa de Pipelines do Databricks**, que gera automaticamente os scripts no formato .py. **Por esse motivo, não é possível exportar o código contendo os outputs diretamente pelo ambiente**.
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Silver_Tranformation.py
 
-Eviência Output: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Output_Camada_Silver.pdf
+Evidência dos Outputs: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/2.Camada_Silver/Output_Camada_Silver.pdf
 
 <br>
 
