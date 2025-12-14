@@ -180,11 +180,11 @@ Utilizando a funcionalidade nativa de **Dashboards do Databricks**, foi possíve
 <img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" /><br>
 
 
-**Análise 1:** Os níveis de stress (Stress_Level) apresentam médias de idade semelhantes.*<br>
-**Análise 2:** O atributo de horas dormidas (Sleep_Hours) segue uma distribuição aproximadamente normal.*<br>
-**Análise 3:** As medianas do atributo idade (Age) são próximas analisando os diferentes tipo de dieta (Diet_Type).*<br>
-**Análise 4:** Os gêneros (Gender) apresentam médias similares de horas semanais trabalhadas (Work_Hours_per_Week).*<br>
-**Análise 5:** O dataset é balanceado, o que favorece conclusões mais robustas.*<br>
+**Análise 1:** *Os níveis de stress (Stress_Level) apresentam médias de idade semelhantes.*<br>
+**Análise 2:** *O atributo de horas dormidas (Sleep_Hours) segue uma distribuição aproximadamente normal.*<br>
+**Análise 3:** *As medianas do atributo idade (Age) são próximas analisando os diferentes tipo de dieta (Diet_Type).*<br>
+**Análise 4:** *Os gêneros (Gender) apresentam médias similares de horas semanais trabalhadas (Work_Hours_per_Week).*<br>
+**Análise 5:** *O dataset é balanceado, o que favorece conclusões mais robustas.*<br>
 
 ---
 
