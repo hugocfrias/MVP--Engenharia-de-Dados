@@ -74,7 +74,7 @@ Toda a etapa de ETL (Extração, Transformação e Carga) ***foi executada utili
 <img width="915" height="229" alt="image" src="https://github.com/user-attachments/assets/d16fb229-9ca7-4163-a350-9329de671223" /> <br>
 
 
-A construção do pipeline seguiu os princípios da **Medallion Architecture**, metodologia recomendada pelo Databricks para organizar dados em camadas (Bronze, Silver e Gold), garantindo qualidade, rastreabilidade e governança ao longo de todo o processo:/><br>
+A construção do pipeline seguiu os princípios da **Medallion Architecture**, metodologia recomendada pelo Databricks para organizar dados em camadas (Bronze, Silver e Gold), garantindo qualidade, rastreabilidade e governança ao longo de todo o processo:<br>
 
 <img width="662" height="318" alt="image" src="https://github.com/user-attachments/assets/224409a1-0b4a-4fc2-ae58-59cf5945ad5a" />/> <br>
 
