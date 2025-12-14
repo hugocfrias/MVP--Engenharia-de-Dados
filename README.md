@@ -72,7 +72,7 @@ O catálogo dos dados foi estruturado diretamente sobre a tabela importada, comp
 >Social Interaction Score: Pontuação de interação Social do respondente (Escala 1-10)<br>
 >Happiness Score: Pontuação de Felicidade do respondente (Escala 1-10)<br>
 
--  **Linhagem de Dados:**
+**Linhagem de Dados:**
     - Origem: Plataforma Kaggle
     - Dataset: [Mental_Health_Lifestyle](https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-lifestyle-habits-2019-2024)
     -  O dataset consiste em uma tabela única com aproximadamente 3.000 instâncias, apresentando distribuição balanceada entre seus principais atributos categóricos (como País, Gênero, Tipo de Dieta, entre outros). No total, o conjunto de dados contém 12 atributos.
