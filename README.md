@@ -144,7 +144,7 @@ O pipeline foi construído utilizando a **funcionalidade nativa de Pipelines do 
 
 **Tabelas Criadas na Camada Gold**
 
-1. Gold Transformation
+**1. Gold Transformation**
 
 A primeira tabela da Camada Gold tem como objetivo **comparar a população total com o grupo de indivíduos acima de 40 anos**. O foco dessa análise é avaliar o impacto da idade em atributos como:
 
@@ -154,7 +154,7 @@ média de horas de sono (**Sleep_Hours**)
 
 Código (.py): https://github.com/hugocfrias/MVP--Engenharia-de-Dados/blob/main/3.Camada_Gold/Gold_Tranformation.py
 
-2. Gold Transformation 2
+**2. Gold Transformation 2**
 
 A segunda tabela tem como objetivo **criar faixas etárias** e realizar a **contagem de indivíduos por nível de stress (Stress_Level)** dentro de cada faixa. Essa estrutura permite identificar padrões de stress ao longo das diferentes idades.
 
