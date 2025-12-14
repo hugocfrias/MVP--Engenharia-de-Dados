@@ -174,19 +174,17 @@ Acessar Análise Completa: https://hugocfrias.github.io/MVP--Engenharia-de-Dados
 
 **📈 5. Dashboards Databricks**
 
-Utilizado a funcionalidade nativa da ferramenta, podemos ver em Dashboards análises graficas dos dados:
+Utilizando a funcionalidade nativa de **Dashboards do Databricks**, foi possível visualizar diversas **análises gráficas** dos dados, facilitando a interpretação dos padrões e insights identificados ao longo do projeto.
 <br>
 
 <img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" /><br>
 
 
-
-**Análise 1:** Os diferentes níveis de stress (Stress_Level) têm média de idade similares<br>
-**Análise 2:** O atributo de horas dormidas (Sleep_Hours) tem uma distrubuição normal<br>
-**Análise 3:** A mediana dos das idades (Age) são bem próximas quando analisado o atributo do tipo de dieta (Diet_Type)<br>
-**Análise 4:** Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares<br>
-**Análise 5:** Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.
-
+**Análise 1:** Os níveis de stress (Stress_Level) apresentam médias de idade semelhantes.*<br>
+**Análise 2:** O atributo de horas dormidas (Sleep_Hours) segue uma distribuição aproximadamente normal.*<br>
+**Análise 3:** As medianas do atributo idade (Age) são próximas analisando os diferentes tipo de dieta (Diet_Type).*<br>
+**Análise 4:** Os gêneros (Gender) apresentam médias similares de horas semanais trabalhadas (Work_Hours_per_Week).*<br>
+**Análise 5:** O dataset é balanceado, o que favorece conclusões mais robustas.*<br>
 
 ---
 
