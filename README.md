@@ -135,12 +135,14 @@ Evidência dos Outputs: https://github.com/hugocfrias/MVP--Engenharia-de-Dados/b
 
 >🥇Camada Gold:
 
-Esta etapa contém dados trabalhados e agregados que repondem as principais perguntas levantadas no início do projeto.
+A Camada Gold reúne os dados refinados e agregados, estruturados especificamente para responder às principais perguntas definidas no início do projeto. É nesta etapa que os insights finais são consolidados e preparados para consumo analítico.
 
-**Pipeline (Camada Gold)**
+**Pipeline – Camada Gold**
 <img width="1321" height="436" alt="image" src="https://github.com/user-attachments/assets/82b9f37a-b332-48b4-a4bd-68911a3efbd2" />
 
-Como o Pipeline foi contruído utilizando a opção nativa do Databricks, os códigos são gerados no formado (.py). **Dessa forma, NÃO é possível o export do código com os outputs.**
+O pipeline foi construído utilizando a **funcionalidade nativa de Pipelines do Databricks**, que gera automaticamente os scripts no formato .py. **Por esse motivo, não é possível exportar o código contendo os outputs diretamente pelo ambiente**.
+
+**Tabelas Criadas na Camada Gold**
 
 A primeira tabela criada na Camada Gold (Gold Transformation), tem o objetivo de comparar a totalidade das pessoas com a totalidade de pessoas acima de 40 anos. Nessse caso, o objetivo é o efeito da idade em atributos como, por exemplo, média do score de felicidade (Happiness_Score) e média de horas de sono (Sleep_Hours).
 
