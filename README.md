@@ -16,21 +16,21 @@ O Conjunto de Dados de 'Mental Health and Lifestyle Habits Dataset (2019-2024)' 
 
 >1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
 
->2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
+>2. Existem diferenças relevantes nos atributos considerando determinada faixa etária?
 
 >3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
 
->4. Qual gênero tem maior felicidade média?
+>4. Qual gênero apresenta maior felicidade média?
 
 >5. Há países onde as pessoas dormem mais?
 
 >6. O tempo de tela varia muito entre os diferentes níveis de stress?
 
->7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+>7. Há algum padrão facilmente identificável por meio de análise gráfica?
 
->8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
+>8. Existe correlação entre os atributos numéricos do dataset?
 
->9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+>9. É possível segregar níveis de stress e bem-estar com base em horas de sono, horas de trabalho e tempo de tela, por exemplo?
 
 ---
 
@@ -217,72 +217,72 @@ https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisy
 <br>
 
 
->1. Podemos classificar os 'níveis de stress e bem-estar' de acordo a faixa etária dos indivíduos?
+>1. Podemos classificar os níveis de stress e bem-estar de acordo com a faixa etária??
 
-***Resposta:*** *Na tabela criada na camada Gold (gold_transformation_2) é possível vermos que há maior concentração de pessoas 60+ no nível de stress alto. Dessa forma, concluo que a idade dos indivíduos é um fator importante para níveis de stress.*
+***Resposta:*** *Na tabela da camada Gold (gold_transformation), as médias de Happiness_Score e Sleep_Hours para o grupo acima de 40 anos são muito próximas das médias gerais. Isso indica que, para esses atributos, não há diferenças significativas entre as faixas etárias analisadas.*
 
 <img width="369" height="352" alt="image" src="https://github.com/user-attachments/assets/1f0f9113-f077-4687-be81-0e78d9c058f1" /><br>
 
 
->2. Podemos identificar diferenças relevantes nos atributos considerando determinada faixa etária?
+>2. Existem diferenças relevantes nos atributos considerando determinada faixa etária?
 
-***Resposta:*** *Na tabela criada na camada Gold (gold_transformation) podemos verificar que não há diferenças relevantes nas médias do total de pessoas com a média das pessoas acima dos 40 anos. As médias comparadas foram dos atributos **Happiness_Score** e **Sleep_Hours**.*
+***Resposta:*** *Na tabela da camada Gold (gold_transformation), as médias de **Happiness_Scor**e e **Sleep_Hours** para o grupo acima de 40 anos são muito próximas das médias gerais. Isso indica que, para esses atributos, não há diferenças significativas entre as faixas etárias analisadas.*
+
 
 <img width="809" height="188" alt="image" src="https://github.com/user-attachments/assets/3f1bf430-27a0-48aa-ba98-b385a5ddbe8e" /><br>
 
 
 >3. Quais países têm maior índice médio de interação social (Social_Interaction_Score)?
 
-***Resposta:*** *Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do score de interação social (Social_Interaction_Score). Podemos verificar que as maiores médias são dos Canada e USA.*
+***Resposta:*** *No notebook 'Data_Analysis', o ranking das médias de Social_Interaction_Score mostra que Canadá e Estados Unidos apresentam os maiores índices médios de interação social.*
 
 <img width="520" height="460" alt="image" src="https://github.com/user-attachments/assets/0e984419-9da6-4628-86a5-5fdff10c1517" /><br>
 
 
+>4. Qual gênero apresenta maior felicidade média?
 
->4. Qual gênero tem maior felicidade média?
-
-***Resposta:*** *Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do score de felicidade (Happiness_Score). Podemos verificar que a maior média é do gênero masculino (Male).*
+***Resposta:*** *No notebook 'Data_Analysis', o ranking das médias de **Social_Interaction_Score** mostra que Canadá e Estados Unidos apresentam os maiores índices médios de interação social.*
 
 <img width="523" height="400" alt="image" src="https://github.com/user-attachments/assets/59d4aeea-c61d-4a7d-a626-32fab68c6676" /><br>
 
 
 >5. Há países onde as pessoas dormem mais?
 
-***Resposta:*** *Podemos ver no notebook 'Data_Analiys' o ordenamento das médias de horas de sono (Sleep_Hours). Embora as maiores médias sejam de Canada e Japão, não há diferenças relevantes entre as médias.*
+***Resposta:*** *O ranking das médias de **Sleep_Hours** indica que Canadá e Japão possuem as maiores médias de horas dormidas. No entanto, as diferenças entre os países são pequenas, não caracterizando variações relevantes.*
 
 <img width="498" height="452" alt="image" src="https://github.com/user-attachments/assets/2a5b7dba-f74f-406c-814b-611496d3cea9" /><br>
 
 
 >6. O tempo de tela varia muito entre os diferentes níveis de stress?
 
-***Resposta:*** *Podemos ver no notebook 'Data_Analiys' o ordenamento das médias do tempo médio em telas (Screen_Time_per_Day_Hours). Não há diferenças relevantes entre as médias dos diferentes níveis de stress.*
+***Resposta:*** *O ordenamento das médias de **Screen_Time_per_Day_Hours** mostra que não há diferenças expressivas entre os níveis de stress. As médias são próximas, indicando baixa variabilidade.*
 
 <img width="586" height="395" alt="image" src="https://github.com/user-attachments/assets/6ef59d84-2e4b-404c-bd59-d90344028b2c" /><br>
 
 
->7. Há algum padrão facilmente de ser identificado apenas com uma análise gráfica?
+>7. Há algum padrão facilmente identificável por meio de análise gráfica?
 
-***Resposta:*** *As análises gráficas foram realizadas pela funcionalidade nativa de Dashboards do Databricks.*
+***Resposta:*** *As visualizações criadas nos Dashboards do Databricks revelam alguns padrões:*
 
 <img width="1228" height="564" alt="image" src="https://github.com/user-attachments/assets/d9cbb8fb-bc90-4f1f-ba20-57b24c0c9c91" /><br>
 
-*Os diferentes níveis de stress (Stress_Level) têm média de idade similares*<br>
-*O atributo de horas dormidas (Sleep_Hours) tem uma distrubuição normal*<br>
-*A mediana dos das idades (Age) são bem próximas quando analisado o atributo do tipo de dieta (Diet_Type)*<br>
-*Os diferentes tipos de gênero (Gender) têm média de horas semanais trabalhadas (Work_Hours_per_Week) similares*<br>
-*Os dados do dataset são balanceados. Nesse caso, podemos chegar a conclusões mais precisas.*<br>
+*Os níveis de stress (Stress_Level) apresentam médias de idade semelhantes.*<br>
+*O atributo de horas dormidas (Sleep_Hours) segue uma distribuição aproximadamente normal.*<br>
+*As medianas do atributo idade (Age) são próximas analisando os diferentes tipo de dieta (Diet_Type).*<br>
+*Os gêneros (Gender) apresentam médias similares de horas semanais trabalhadas (Work_Hours_per_Week).*<br>
+* O dataset é balanceado, o que favorece conclusões mais robustas.*<br>
 
 
->8. Podemos identificar alguma correlação entre os atributos numéricos do dataset?
+>8. Existe correlação entre os atributos numéricos do dataset?
 
-***Resposta:*** *Podemos ver no notebook 'Data_Analiys' o mapa de calor das correlação entre as variáveis numéricas do dataset. Todas as correlações são consideradas bem baixas.*
+***Resposta:*** *O mapa de calor de correlação no notebook 'Data_Analysis' mostra que todas as correlações entre variáveis numéricas são fracas, indicando baixa relação linear entre os atributos.*
 
 <img width="553" height="506" alt="image" src="https://github.com/user-attachments/assets/e0e8d860-4515-420a-b1d3-d3d835d865af" /><br>
 
 
->9. Podemos segregar os diferentes níveis de stress e bem-estar de acordo com as aferições de horas de sono, horas de trabalho e horas em telas diários, por exemplo?
+>9. É possível segregar níveis de stress e bem-estar com base em horas de sono, horas de trabalho e tempo de tela, por exemplo?
 
-***Resposta:*** *Podemos ver no notebook 'Data_Analiys' que não há diferenças consideráveis entre as médias dos atributos mencionados.*
+***Resposta:*** *As análises no notebook 'Data_Analysis' mostram que as médias de **Sleep_Hours**, **Work_Hours_per_Week** e **Screen_Time_per_Day_Hours** são muito próximas entre os diferentes níveis de stress. Portanto, esses atributos não apresentam diferenças suficientes para segmentar os níveis de stress e bem‑estar.*
 
 <img width="662" height="476" alt="image" src="https://github.com/user-attachments/assets/b1a0e71a-c1fc-4e8b-acc4-c9f9e334d821" /><br>
 
