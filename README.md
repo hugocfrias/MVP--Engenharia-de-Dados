@@ -308,4 +308,19 @@ https://hugocfrias.github.io/MVP--Engenharia-de-Dados/3.Camada_Gold/Data_Analisy
 
 **💡 8. Autoavaliação**
 
+1. Planejamento e Estruturação do Projeto
+
+Acredito que o projeto foi desenvolvido de forma coerente, seguindo as estrutura **Medallion Architecture** (Bronze, Silver e Gold). Essa estrutura permitiu um melhor entendimento de cada fase para melhor clareza metodológica.
+
+**Oportunidade de melhoria:**  Inclusão de diagramas customizados adicionais para melhor visualização da arquitetura.
+
+2. Análise Técnica
+
+O projeto foi praticamente todo baseado nos recursos nativos do Databricks, incluindo **Pipelines**, **Jobs**, **Volumes**, **Dashboards** e **notebooks**. As camadas Bronze, Silver e Gold foram criadas com os recursos das ferramentas de contrução de ETL.
+
+**Oportunidade de melhoria:** Como foram utilizadas funcionalidades nativas, é possível o aprimoramentyo de técnicas mais avançadas utilizando Spark.
+
+3. Resumo Geral da Autoavaliação
+Considero que o projeto foi executado com qualidade técnica, organização e clareza analítica. Demonstrei domínio das ferramentas, capacidade de resolver problemas e habilidade para transformar dados brutos em informações úteis. Como evolução, pretendo aprofundar técnicas avançadas de análise e otimização de pipelines, além de enriquecer ainda mais a comunicação dos resultados.
+
 ---
